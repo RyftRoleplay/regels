@@ -2,7 +2,7 @@
 
 !!! abstract annotate "Voorwoord"
 
-    Bedankt voor je bezoek aan de regelpagina van RebornInteractive. Je hebt succesvol de eerste stap gezet om een lid te worden van onze community. Wij zijn een serieuze Roleplay Server voor FiveM en onze serverregels zijn een cruciaal onderdeel voor het spelen op onze server. Mochten er enige onduidelijkheden zijn over enige serverregels kan je altijd een support ticket aanmaken in de discordserver om hier meer verduidelijking over te vragen.
+    Bedankt voor je bezoek aan de regelpagina van Ryft Roleplay. Je hebt succesvol de eerste stap gezet om een lid te worden van onze community. Wij zijn een serieuze Roleplay Server voor FiveM en onze serverregels zijn een cruciaal onderdeel voor het spelen op onze server. Mochten er enige onduidelijkheden zijn over enige serverregels kan je altijd een support ticket aanmaken in de discordserver om hier meer verduidelijking over te vragen.
 
 Indien er een regel overtreden wordt probeer dan eerst met diegene in kwestie in gesprek te gaan voordat je een report aanmaakt tegen de desbetreffende persoon. Dit scheelt ons een hoop werk en het scheelt jou als persoon ook werk. Indien het niet mogelijk is dit onderling op te lossen met de speler dan is er altijd de mogelijkheid om diegene te rapporteren.
 
@@ -15,7 +15,7 @@ Indien er een regel overtreden wordt probeer dan eerst met diegene in kwestie in
 
 ## 2. Metagaming
 
-1. Het is ten alle tijde verplicht om in-game (IC) communicatie te gebruiken. Dit houdt in dat alle betrokken spelers in Reborn of in TeamSpeak (Overheid) communiceren. Het gebruik maken van externe communicatiemiddelen zoals Discord, Whatsapp, Snapchat of andere voice-chat is niet toegestaan.
+1. Het is ten alle tijde verplicht om in-game (IC) communicatie te gebruiken. Dit houdt in dat alle betrokken spelers in Ryft of in TeamSpeak (Overheid) communiceren. Het gebruik maken van externe communicatiemiddelen zoals Discord, Whatsapp, Snapchat of andere voice-chat is niet toegestaan.
 2. Het is verboden om samen te spannen met andere spelers buiten de game om en vervolgens deze afspraken in-game toe te passen voor strategische voordelen. Dit omvat maar is niet beperkt tot het vormen van allianties, het plannen van aanvallen.
 3. Streamsniping valt ook onder META-gaming. Het is niet toegestaan dat jij informatie via een externe bron verkrijgt (zoals een livestream) en dit toepast in-game om bijvoorbeeld de streamer op te zoeken is niet toegestaan.
 
@@ -59,7 +59,7 @@ Indien er een regel overtreden wordt probeer dan eerst met diegene in kwestie in
 10. Op het moment dat iemand anders een regel overtreed krijg jij geen uitzondering om de regels ook te overtreden. Blijf in karackter en probeer het scenario ACHTERAF op te lossen doormiddel van een ticket of een report.
 11. Wanneer spelers (individueel of in een groep) veel negativiteit veroorzaken (denk aan bijvoorbeeld meerdere malen regels overtreden) of veel waarschuwingen is het management-team gemachtigd om samen te kijken naar een sanctie hierop.
 12. Powergaming is niet toegestaan. Dit houdt in dat spelers niet in situaties mogen belanden waarbij het niet mogelijk is met de mechanics binnen de server. Een voorbeeld is "Ik heb een bomgordel" of "Ik heb een vingerafdrukscanner gebruikt om je naam te traceren." Kleine acties zoals het vastbinden van iemand doormiddel van /me is wel toegestaan.
-13. Het is niet toegestaan om AFK te staan binnen Reborn. Dit houdt in dat je te allen tijde aanwezig moet zijn om antwoord te geven indien iemand jou aanspreekt. Mocht je voor een korte tijd (minder als 5 minuten) weg zijn dan is het niet verplicht om de server te verlaten.
+13. Het is niet toegestaan om AFK te staan binnen Ryft. Dit houdt in dat je te allen tijde aanwezig moet zijn om antwoord te geven indien iemand jou aanspreekt. Mocht je voor een korte tijd (minder als 5 minuten) weg zijn dan is het niet verplicht om de server te verlaten.
 
 ## 5. Wraakacties
 
@@ -172,14 +172,14 @@ Je kan op elk moment in-game staff aanroepen, dit doe je via /report. De volgend
 ## 14. Taalgebruik
 
 1. Het schelden met hederdaagse ziekten is niet toegestaan.
-2. Het is binnen Reborn niet toegestaan om uitlokkend, toxic of haatdragend gedrag te tonen. Staff heeft te allen tijde het recht om te bepalen wanneer iets als ongepast beschouwd wordt.
+2. Het is binnen Ryft niet toegestaan om uitlokkend, toxic of haatdragend gedrag te tonen. Staff heeft te allen tijde het recht om te bepalen wanneer iets als ongepast beschouwd wordt.
 3. Het vertonen van racistisch gedrag of andere ongepaste opmerkingen uiten is niet toegestaan.
 
 ## 15. Ambtenaren
 
 1. Ambtenaren vallen onder de mensen die voor de overheidinstanties werken.
 
-     - Overheidsinstanties in Reborninteractive zijn: Politie, Ambulance en ANWB
+     - Overheidsinstanties in Ryft zijn: Politie, Ambulance en ANWB
 
 2. Wanneer je in-dienst bent is het niet toegestaan om vrijetijds activiteiten zoals airsoft, casino of andere licentie banen uit te oefenen. Uitzonderingen kunnen worden gegeven door de leidinggevende.
 3. Het is verboden om uit-dienst goederen bij je te dragen die je in-dienst gebruikt (denk hierbij aan een tazer, pistool of medische middelen).
@@ -279,7 +279,7 @@ Je kan op elk moment in-game staff aanroepen, dit doe je via /report. De volgend
 
 ## 19. Cayo Perico
 
-Het eiland (Cayo Perico) in Reborn is een "danger-zone".
+Het eiland (Cayo Perico) in Ryft is een "danger-zone".
 Dit houdt in dat er een aantal regels niet meer van toepassing zijn hier.
 
 1. De RDM regel, het is hier toegestaan om iedereen te vermoorden zonder geldige reden.
