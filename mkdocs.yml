@@ -1,0 +1,53 @@
+site_name: Ryft Roleplay Regels
+site_url: https://regels.ryftroleplay.nl
+site_description: 'Ryft Roleplay Regels'
+site_author: 'Ryft Roleplay'
+
+copyright: 'Copyright &copy; 2024 Ryft Roleplay | Alle rechten voorbehouden'
+
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  language: nl
+  logo: assets/logo.png
+  favicon: assets/logo.png
+
+  features:
+    - toc.follow
+
+  icon:
+    annotation: material/arrow-right-circle
+
+nav:
+  - Server-Regels: index.md
+  - Tebex-terms: tebex.md
+copyright: Copyright &copy; 2023 Reborn
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: "#"
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
