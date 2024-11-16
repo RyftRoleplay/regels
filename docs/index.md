@@ -5,7 +5,7 @@
 </p>
 
 <p style="text-align: center; font-weight: bold; font-style: italic; font-size: 1.3em">
-    Laatste update: 13/11/2024
+    Laatste update: 16/11/2024
 </p>
 
 !!! abstract "Introductie"
@@ -51,8 +51,13 @@ Het is niet toegestaan om je startersgeld aan anderen te geven zonder de bedoeli
 
 Combatloggen houdt in dat een speler de server verlaat tijdens een actieve situatie, zoals een confrontatie, achtervolging, of een moment van geweld. Dit is ten strengste verboden, omdat het de gameplay verstoort en oneerlijk is tegenover andere spelers. De regel geldt voor iedereen, ongeacht of je een crimineel bent of deel uitmaakt van een overheidsinstantie. Als je betrokken bent bij een gewelddadige situatie, is het verplicht om in het spel te blijven totdat de situatie volledig is afgehandeld. Het verlaten van de server in dergelijke situaties kan leiden tot sancties, zoals tijdelijke of permanente bans.
 
-<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 7e tot 10e categorie.*</span>
-<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een tijdelijke categorie 9 ban uitgedeeld worden (maak een ticket aan).*</span>
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een tijdelijke ban van de 9e categorie uitgedeeld worden. (Je dient je dus ook te melden in een ticket voor een gepaste straf.)*</span>
+
+## Artikel 4: Combatstashing
+
+Combatstashen is niet toegestaan, dit houdt in dat het niet is toegestaan om binnen 15 minuten na het verlaten van een scenario je spullen op te slaan of offline te gaan om hiermee confrontaties te voorkomen.
+
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een tijdelijke ban van de 9e categorie uitgedeeld worden. (Je dient je dus ook te melden in een ticket voor een gepaste straf.)*</span>
 
 ## Artikel 5: Metagaming
 
@@ -110,7 +115,7 @@ Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e to
 1. Bij het genereren bij jouw karakter is het verplicht om je kleding aan te passen. Het is dus niet toegestaan om met de standaard starterskleding rond te lopen in de stad.
 Verder is het verplicht om bij het maken van jouw karakter te denken aan realisme en niet te spelen met onzichtbare outfits, lichaamsdelen etc.
 2. Zodra jij in-dienst bent als ambtenaar is het ten alle tijden verplicht om de afgesproken kleding te dragen.
-3. Het is niet toegestaann om als burger de kleding te dragen van een ambtenaar.
+3. Het is niet toegestaan om als burger de kleding te dragen van een ambtenaar.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 3e categorie.*</span>
 
