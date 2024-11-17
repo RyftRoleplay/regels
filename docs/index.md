@@ -74,7 +74,21 @@ Het is ten alle tijden verplicht gesteld om in-game (IC) communicatie te gebruik
     - Externe programma's
     - Externe apps
 
-## Artikel 6: Vehicle Death Match (VDM)
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
+
+## Artikel 6: Powergaming
+
+Onder powergaming verstaan wij het opzettelijk oneerlijk voordeel naar jezelf toe trekken.
+
+!!! question "Voorbeelden van Powergaming"
+    - Gebruik maken van de ID's om spelers te vinden.
+    - Vluchten in je woning om confronaties te voorkomen.
+    - Het op slot zetten van je voertuig nadat hij is open gelast.
+    - Het gebruik maken van emotes wanneer je wordt beschoten zoals /e sleep.
+
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
+
+## Artikel 7: Vehicle Death Match (VDM)
 
 Het gebruiken van een voertuig als wapen is in geen enkel scenario toegestaan.
 
@@ -85,7 +99,7 @@ Het gebruiken van een voertuig als wapen is in geen enkel scenario toegestaan.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 2e tot 4e categorie.*</span>
 
-## Artikel 7: Random Death Match (RDM)
+## Artikel 8: Random Death Match (RDM)
 
 Indien je iemand om het leven wil brengen dient dit ten alle tijden met een geldige reden te zijn.
 
@@ -99,7 +113,7 @@ Indien je iemand om het leven wil brengen dient dit ten alle tijden met een geld
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 3e tot 5e categorie.*</span>
 
-## Artikel 8: No Value Of Life (NVOL)
+## Artikel 9: No Value Of Life (NVOL)
 
 Binnen Ryft Roleplay dien je ten alle tijden om je leven te geven.
 
@@ -110,7 +124,7 @@ Binnen Ryft Roleplay dien je ten alle tijden om je leven te geven.
 
 Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 5e categorie.
 
-## Artikel 9: (Overheids)kleding
+## Artikel 10: (Overheids)kleding
 
 1. Bij het genereren bij jouw karakter is het verplicht om je kleding aan te passen. Het is dus niet toegestaan om met de standaard starterskleding rond te lopen in de stad.
 Verder is het verplicht om bij het maken van jouw karakter te denken aan realisme en niet te spelen met onzichtbare outfits, lichaamsdelen etc.
@@ -119,7 +133,7 @@ Verder is het verplicht om bij het maken van jouw karakter te denken aan realism
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 3e categorie.*</span>
 
-## Artikel 10: Wraakacties
+## Artikel 11: Wraakacties
 
 Onder de term wraakacties wordt er verwezen naar het afspelen van een eerdere gebeurtenis of interactie. Wraakacties mogen uitgevoerd worden tot een server restart. Een uitzondering hiervoor geldt op het moment dat de server crashed of dat er een geforceerde restart ingepland wordt.
 
@@ -137,7 +151,7 @@ Onder de term wraakacties wordt er verwezen naar het afspelen van een eerdere ge
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
 
-## Artikel 11: GTA Drivestyle
+## Artikel 12: GTA Drivestyle
 
 Onder GTA Drivestyle verstaan wij het onrealistisch besturen van voertuigen zonder enige vorm van realisme.
 
@@ -150,39 +164,39 @@ Onder GTA Drivestyle verstaan wij het onrealistisch besturen van voertuigen zond
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
 
-## Artikel 12: Vliegbrevet
+## Artikel 13: Vliegbrevet
 
 Het is binnen Ryft Roleplay verplicht om een vliegend voertuig te besturen met een vliegbrevet.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
 
-## Artikel 13: Reports
+## Artikel 14: Reports
 
 1. op het moment dat jij een report aanmaakt om iemand te rapporteren  wordt er verwacht dat jij dit niet bespreekt met anderen. Dit valt onder het Verstoren van je personage (OOC gaan in RP).
 2. Het onnodig maken van reports, spammen in reports of in discussie gaan in reports is niet toegestaan. Hiervoor dien jij een ticket aan te maken.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
 
-## Artikel 14: Eerlijkheid
+## Artikel 15: Eerlijkheid
 
 Het is verboden om te liegen tegen staffleden, ook het achterhouden van enige informatie is niet toegestaan.
 Op het moment dat een stafflid iets vraagt aan je dien je dus ook ten alle tijden de waarheid te vertellen.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 2e tot 5e categorie.*</span>
 
-## Artikel 15: Imiteren van staff
+## Artikel 16: Imiteren van staff
 
 Het imiteren van een stafflid of uitspraken doen namens staffleden is niet toegestaan.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 3e tot 5e categorie.*</span>
 
-## Artikel 16: Personage verstoren / OOC gaan (FailRP)
+## Artikel 17: Personage verstoren / OOC gaan (FailRP)
 
 Het is niet toegestaan om OOC (Out Of Character) te gaan binnen Ryft Roleplay. Op het moment dat er een staffzaak gestart wordt dan is dit pas toegestaan.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 5e categorie.*</span>
 
-## Artikel 17: Gebruik van voertuig(en)
+## Artikel 18: Gebruik van voertuig(en)
 
 1. Het is niet toegestaan om voertuigen te gebruiken als wapen. Dit valt onder VDM.
 2. Het is niet toegestaan om met voertuigen gebouwen te betreden (enkel als er een garage aanwezig is is dit wel toegestaan).
@@ -190,7 +204,7 @@ Het is niet toegestaan om OOC (Out Of Character) te gaan binnen Ryft Roleplay. O
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 5e categorie.*</span>
 
-## Artikel 18: Taalgebruik
+## Artikel 19: Taalgebruik
 
 Het gebruik maken van ongepaste taal zal bestraft worden met een ban.
 
@@ -214,7 +228,7 @@ Voorbeelden van ongepast taalgebruik:
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 3e tot 7e categorie.*</span>
 
-## Artikel 19: Ambtenaren
+## Artikel 20: Ambtenaren
 
 Ambtenaren vallen onder iedere organisatie die toegang hebben tot het F6 menu.
 
@@ -235,7 +249,7 @@ Ambtenaren vallen onder iedere organisatie die toegang hebben tot het F6 menu.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 3e tot 6e categorie.*</span>
 
-## Artikel 20: Copbaiten
+## Artikel 21: Copbaiten
 
 Het is niet toegestaan om politieagenten uit te lokken.
 
@@ -248,13 +262,13 @@ Het is niet toegestaan om politieagenten uit te lokken.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
 
-## Artikel 21: Illegale activiteiten via Twitter
+## Artikel 22: Illegale activiteiten via Twitter
 
 Het verhandelen van illegale activiteiten (wapens, drugs en locaties als voorbeeld) op social media is niet toegestaan. Aliassen zoals een "botermes" gebruiken om deze goederen alsnog te verkopen is ook niet toegestaan.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 3e categorie.*</span>
 
-## Artikel 22: Criminaliteit
+## Artikel 23: Criminaliteit
 
 1. Het beroven van spelers is toegestaan indien jij hier een goede reden voor hebt, 
 een simpel voorbeeld hiervan is onderdeel zijn van een criminele organisatie die in oorlog is met een andere criminele organisatie. 
@@ -316,7 +330,7 @@ Dit verwijst tevens ook naar artikel 5 (Wraakacties).
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 3e tot 5e categorie.*</span>
 
-## Artikel 23: Stemherkenning
+## Artikel 24: Stemherkenning
 
 1. Het is toegestaan om externe software te gebruiken om je stem te veranderen tijdens het plegen van criminele activiteiten of tijdens het uitvoeren van een functie binnen het politiekorps waarbij de identiteit anoniem moet blijven.
 2. Zodra iemand geen mogelijkheid heeft om een stemvervormer te gebruiken en diegene stopt er daadwerkelijk effort in om zijn stem anders te laten klinken is het niet toegestaan om diegene te herkennen.
