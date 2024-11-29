@@ -170,6 +170,8 @@ Onder de term wraakacties wordt er verwezen naar het afspelen van een eerdere ge
     - Een agent die een boete uitschrijft: Op het moment dat een agent een boete uitschrijft is het niet toegestaan om wraak te nemen. De boete dient geaccepteerd te worden tenzij het mogelijk is om binnen RP de situatie op een andere manier op te lossen.
     - Een verloren gevecht of confrontatie: Op het moment dat jij in een conflict komt met iemand is het niet toegestaan om onmiddelijk wraak te nemen op diegene. Op het moment dat jij overleden bent is het in zijn geheel niet meer toegestaan om wraak te nemen i.v.m. de New Life Rule (NLR).
     - Onbedoelde confrontatie: Op het moment dat iemand zonder de intentie schade of iets toericht bij jou is het niet toegestaan om wraak te nemen hierop.
+    - Direct na een scenario met de ambulance. Pas na 5 minuten zonder ambulance roleplay is het weer toegestaan om verder te handelen met een persoon.
+    - Zodra een persoon gerespawned is heeft geen van beide partijen meer het recht om nog wraak te nemen op elkaar.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
 
@@ -304,9 +306,10 @@ Dit verwijst tevens ook naar artikel 5 (Wraakacties).
 !!! success "Een aantal redenen om iemand te mogen beroven zijn:"
 
     - [x] Op het moment dat iemand een masker/bivakmuts draagt.
+    - [x] Op het moment dat iemand een helm draagt terwijl diegene niet op of naast een motor staat. 
     - [x] Op het moment dat iemand een holster draagt.
     - [x] Op het moment dat er wapen zichtbaar is.
-    - [x] Op het moment dat er iemand op een roterende drugslocatie aanwezig is.
+    - [x] Op het moment dat er iemand op een roterende drugslocatie aanwezig is (met uitzondering van de start van de drugs verkoop NPC.)
 
 *Zodra een van de bovenstaande punten herkend is bij iemand is het toegestaan om diegene tot maximaal 30 minuten daarna te beroven.*
 
@@ -315,6 +318,7 @@ Dit verwijst tevens ook naar artikel 5 (Wraakacties).
     - [ ] Spelers die een legaal gelicentieerde baan uitvoeren.
     - [ ] Spelers beroven rondom niet roterende drugslocaties in een radius van 200 meter.
     - [ ] Spelers die nieuw zijn binnen de stad.
+    - [ ] Op het moment dat iemand een masker/bivakmuts draagt op een motor of scooter.
 
 3. Schietincidenten dienen ten alle tijden zoveel mogelijk voorkomen te worden. Probeer eerst te onderhandelen met de politie.
 4. Schietincidenten met overheden dienen zoveel mogelijk beperkt te worden. Probeer altijd eerst te onderhandelen voordat je overgaat tot schieten.
