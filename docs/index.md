@@ -5,8 +5,16 @@
 </p>
 
 <p style="text-align: center; font-weight: bold; font-style: italic; font-size: 1.3em">
-    Laatste update: 24/11/2024
+    Laatste update: <span id="last-update"></span>
 </p>
+
+<script>
+    document.getElementById('last-update').textContent = new Date(document.lastModified).toLocaleDateString('nl-NL', {
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit'
+    });
+</script>
 
 !!! abstract "Introductie"
 
