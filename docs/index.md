@@ -181,6 +181,7 @@ Onder de term wraakacties wordt er verwezen naar het afspelen van een eerdere ge
     - Onbedoelde confrontatie: Op het moment dat iemand zonder de intentie schade of iets toericht bij jou is het niet toegestaan om wraak te nemen hierop.
     - Direct na een scenario met de ambulance. Pas na 5 minuten zonder ambulance roleplay is het weer toegestaan om verder te handelen met een persoon.
     - Zodra een persoon gerespawned is heeft geen van beide partijen meer het recht om nog wraak te nemen op elkaar.
+    - Op het moment dat een ambtenaar een arrestatie heeft verricht is het niet toegestaan om vervolgens wraak te nemen op de desbetreffende ambtenaar of andere ambtenaren.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
 
