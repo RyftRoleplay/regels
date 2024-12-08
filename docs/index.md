@@ -151,6 +151,7 @@ Hierbij is het dus niet meer toegestaan om oudere gebeurtenissen die tot jouw do
     - Locaties van afgespeelde situaties.
     - Wie je van het leven heeft ontnomen.
     - Situaties en aanleidingen waarom iets heeft plaatsgevonden.
+    - Het terugkoppelen aan scenario's waarbij jij bent overleden door dezelfde persoon(en)/groepering is NIET toegestaan.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 2e tot 5e categorie.*</span>
 
