@@ -422,12 +422,12 @@ Achter elke gijzeling dient een geldige reden te zijn.
 !!! warning "Motoren en andere tweewielige voertuigen"
     Motoren zijn kwetsbare bestuurders, daarom gelden de volgende regels:  
     - **Tikken van motoren** is toegestaan:  
-      - Onder de **40 KM/H**.  
-      - Onder de **60 KM/H**, mits op een zachte, vlakke ondergrond (bijvoorbeeld een grasvlakte, maar niet op een berghelling, afgrond, of harde ondergrond).  
+        - Onder de **40 KM/H**.  
+        - Onder de **60 KM/H**, mits op een zachte, vlakke ondergrond (bijvoorbeeld een grasvlakte, maar niet op een berghelling, afgrond, of harde ondergrond).  
     - **Schieten op banden** van motoren is toegestaan:  
-      - Alleen bij een snelheid van **10 KM/H** of lager.  
+        - Alleen bij een snelheid van **10 KM/H** of lager.  
     - **Spijkermatten** mogen worden ingezet:  
-      - Alleen als de snelheid van de motor onder de **120 KM/H** ligt.
+        - Alleen als de snelheid van de motor onder de **120 KM/H** ligt.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal een straf opgelegd worden volgens de 1e tot 3e categorie.*</span>
 
