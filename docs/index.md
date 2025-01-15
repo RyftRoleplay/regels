@@ -415,21 +415,22 @@ Achter elke gijzeling dient een geldige reden te zijn.
 
 ## Artikel 29: Pitten
 
-### Auto's:
-- **Noodhulp en burgers** mogen voertuigen pitten die **niet zwaarder** zijn dan hun eigen voertuig, en alleen als de snelheid onder de **100 KM/H** ligt.  
-- **VP en DSI** mogen voertuigen pitten tot een snelheid van **150 KM/H**.
+!!! info "Auto's"
+    - **Noodhulp en burgers** mogen voertuigen pitten die **niet zwaarder** zijn dan hun eigen voertuig, en alleen als de snelheid onder de **100 KM/H** ligt.  
+    - **VP en DSI** mogen voertuigen pitten tot een snelheid van **150 KM/H**.
 
-### Motoren en andere tweewielige voertuigen:
-Motoren zijn kwetsbare bestuurders, daarom gelden de volgende regels:  
-1. **Tikken van motoren** is toegestaan:  
-   - Onder de **40 KM/H**.  
-   - Onder de **60 KM/H**, mits op een zachte, vlakke ondergrond (bijvoorbeeld een grasvlakte, maar niet op een berghelling, afgrond, of harde ondergrond).  
-2. **Schieten op banden** van motoren is toegestaan:  
-   - Alleen bij een snelheid van **10 KM/H** of lager.  
-3. **Spijkermatten** mogen worden ingezet:  
-   - Alleen als de snelheid van de motor onder de **120 KM/H** ligt.
+!!! warning "Motoren en andere tweewielige voertuigen"
+    Motoren zijn kwetsbare bestuurders, daarom gelden de volgende regels:  
+    - **Tikken van motoren** is toegestaan:  
+      - Onder de **40 KM/H**.  
+      - Onder de **60 KM/H**, mits op een zachte, vlakke ondergrond (bijvoorbeeld een grasvlakte, maar niet op een berghelling, afgrond, of harde ondergrond).  
+    - **Schieten op banden** van motoren is toegestaan:  
+      - Alleen bij een snelheid van **10 KM/H** of lager.  
+    - **Spijkermatten** mogen worden ingezet:  
+      - Alleen als de snelheid van de motor onder de **120 KM/H** ligt.
 
-<span style="color: #00bdd6;">*Bij overtreding van deze regel zal een straf worden opgelegd volgens de 1e tot 3e categorie.*</span>
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal een straf opgelegd worden volgens de 1e tot 3e categorie.*</span>
+
 
 ## Informatie - Cayo Perico
 
