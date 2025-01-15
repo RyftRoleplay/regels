@@ -415,17 +415,21 @@ Achter elke gijzeling dient een geldige reden te zijn.
 
 ## Artikel 29: Pitten
 
-Auto's:
-- Noodhulp en burgers mogen voertuigen die **niet zwaarder** zijn dan hun eigen voertuig pitten onder de **100 KM/H**
-- VP en DSI mag dit tot **150 KM/H**
+### Auto's:
+- **Noodhulp en burgers** mogen voertuigen pitten die **niet zwaarder** zijn dan hun eigen voertuig, en alleen als de snelheid onder de **100 KM/H** ligt.  
+- **VP en DSI** mogen voertuigen pitten tot een snelheid van **150 KM/H**.
 
-Motoren en andere tweewielige voertuigen zijn kwetsbare bestuurders, hiervoor zijn er ook enkele regels m.b.t. het pitten en beschieten van deze voertuigen:
-- Motoren mogen enkel getikt worden onder de  **40 KM/H**
-- Op een zachte, vlakke ondergrond (dus **niet bij een berghelling, afgrond of harde ondergrond.** Bijvoorbeeld wel op een grasvlakte) mag dit onder de **60 KM/H**
-- Banden schieten van mag enkel onder de **10 KM/H**
-- Spijkermatten mogen ingezet worden op motoren wanneer de snelheid lager is dan **120 KM/H**
+### Motoren en andere tweewielige voertuigen:
+Motoren zijn kwetsbare bestuurders, daarom gelden de volgende regels:  
+1. **Tikken van motoren** is toegestaan:  
+   - Onder de **40 KM/H**.  
+   - Onder de **60 KM/H**, mits op een zachte, vlakke ondergrond (bijvoorbeeld een grasvlakte, maar niet op een berghelling, afgrond, of harde ondergrond).  
+2. **Schieten op banden** van motoren is toegestaan:  
+   - Alleen bij een snelheid van **10 KM/H** of lager.  
+3. **Spijkermatten** mogen worden ingezet:  
+   - Alleen als de snelheid van de motor onder de **120 KM/H** ligt.
 
-<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 3e categorie.*</span>
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal een straf worden opgelegd volgens de 1e tot 3e categorie.*</span>
 
 ## Informatie - Cayo Perico
 
