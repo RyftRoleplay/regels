@@ -413,6 +413,20 @@ Achter elke gijzeling dient een geldige reden te zijn.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 3e categorie.*</span>
 
+## Artikel 29: Pitten
+
+Auto's:
+- Noodhulp en burgers mogen voertuigen die **niet zwaarder** zijn dan hun eigen voertuig pitten onder de **100 KM/H**
+- VP en DSI mag dit tot **150 KM/H**
+
+Motoren en andere tweewielige voertuigen zijn kwetsbare bestuurders, hiervoor zijn er ook enkele regels m.b.t. het pitten en beschieten van deze voertuigen:
+- Motoren mogen enkel getikt worden onder de  **40 KM/H**
+- Op een zachte, vlakke ondergrond (dus **niet bij een berghelling, afgrond of harde ondergrond.** Bijvoorbeeld wel op een grasvlakte) mag dit onder de **60 KM/H**
+- Banden schieten van mag enkel onder de **10 KM/H**
+- Spijkermatten mogen ingezet worden op motoren wanneer de snelheid lager is dan **120 KM/H**
+
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 3e categorie.*</span>
+
 ## Informatie - Cayo Perico
 
 Het eiland (Cayo Perico) is een red-zone. Dit houdt in dat het hier bijvoorbeeld wel is toegestaan iemand te vermoorden zonder reden of iemand te beroven zonder reden.
