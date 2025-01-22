@@ -59,13 +59,13 @@ Het is niet toegestaan om je startersgeld aan anderen te geven zonder de bedoeli
 ## Artikel 3: Combatloggen
 
 Combatloggen houdt in dat een speler de server verlaat tijdens een situatie zoals een achtervolging, ripactie of een moment waar er een roleplay scenario bezig is.
-Het is dus ten alle tijden verplicht om online te blijven totdat de situatie 15 minuten is afgelopen.
+Het is dus ten alle tijden verplicht om online te blijven totdat de situatie 20 minuten is afgelopen.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een tijdelijke ban van de 9e categorie uitgedeeld worden. (Je dient je dus ook te melden in een ticket voor een gepaste straf.)*</span>
 
 ## Artikel 4: Combatstashing
 
-Combatstashen is niet toegestaan, dit houdt in dat het niet is toegestaan om binnen 15 minuten na het verlaten van een scenario je spullen op te slaan of offline te gaan om hiermee confrontaties te voorkomen.
+Combatstashen is niet toegestaan, dit houdt in dat het niet is toegestaan om binnen 20 minuten na het verlaten van een scenario je spullen op te slaan of offline te gaan om hiermee confrontaties te voorkomen.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een tijdelijke ban van de 9e categorie uitgedeeld worden. (Je dient je dus ook te melden in een ticket voor een gepaste straf.)*</span>
 
@@ -103,7 +103,6 @@ Onder powergaming verstaan wij het opzettelijk oneerlijk voordeel naar jezelf to
     - Overheidsinstanties hebben een bodycam ongeacht of deze zichtbaar is. Deze bodycam kan wel afgepakt worden.
     - Een politie auto heeft een portofoon inbegrepen. Wanneer een agent zijn of haar communicatie dus wordt ingenomen mogen zij via de auto wel terug communiceren.
     - Het fictief boeien van personen wanneer je wel een menu hiervoor hebt om bugs/game mechanics te vermijden.
-    - Het fictief afpakken van spullen die niet ingenomen mogen worden. Denk hierbij aan communicatiemiddelen en wapens van politieagenten.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
 
@@ -303,6 +302,7 @@ Het is niet toegestaan om politieagenten uit te lokken.
     - Het opzoeken van politieagenten om vervolgens overtredingen te begaan om ze achter je aan te krijgen.
     - Het mengen in scenario's met de intentie om ze te irriteren.
     - Onnodig reacties uitlokken van politieagenten om vervolgens een scenario te starten.
+    - Een staandehouding of achtervolging uitlokken om een agent te gijzelen.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
 
@@ -331,7 +331,7 @@ Dit verwijst tevens ook naar artikel 5 (Wraakacties).
     - [x] Op het moment dat er wapen zichtbaar is.
     - [x] Op het moment dat er iemand op een roterende drugslocatie aanwezig is (met uitzondering van de start van de drugs verkoop NPC.)
 
-*Zodra een van de bovenstaande punten herkend is bij iemand is het toegestaan om diegene tot maximaal 30 minuten daarna te beroven.*
+*Zodra een van de bovenstaande punten herkend is bij iemand is het toegestaan om diegene tot maximaal 20 minuten daarna te beroven.*
 
 !!! failure "Een aantal reden wanneer je iemand niet mag beroven:"
 
@@ -402,6 +402,7 @@ Achter elke gijzeling dient een geldige reden te zijn.
 !!! info "Toevoegingen:"
 
     - Tijdens het gijzelen mogen illegale goederen die de persoon op zak heeft ingenomen worden maar voertuigen mogen niet verder doorzocht worden.
+    - Het afnemen van communicatiemiddelen doormiddel van /me is niet meer toegestaan. Dit dient nu via het fouilleren ingenomen te worden.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 3e tot 5e categorie.*</span>
 
@@ -415,19 +416,26 @@ Achter elke gijzeling dient een geldige reden te zijn.
 
 ## Artikel 29: Pitten
 
-!!! info "Auto's"
-    - **Noodhulp en burgers** mogen voertuigen pitten die **niet zwaarder** zijn dan hun eigen voertuig, en alleen als de snelheid onder de **100 KM/H** ligt.  
-    - **VP en DSI** mogen voertuigen pitten tot een snelheid van **150 KM/H**.
+!!! info "Reglementen omtrent auto's"
+
+    - Noodhulp en burgers mogen voertuigen pitten die niet zwaarder zijn dan het voertuig dat zij zelf besturen en mogen alleen een pit uitvoeren als de snelheid onder de 100 km/h ligt.
+    - Verkeerspolitie en DSI hebben een speciale rijcursus gevolgd en hebben dus het recht om te pitten tot de 150 km/h
 
 !!! warning "Motoren en andere tweewielige voertuigen"
-    Motoren zijn kwetsbare bestuurders, daarom gelden de volgende regels:  
-    - **Tikken van motoren** is toegestaan:  
-        - Onder de **40 KM/H**.  
-        - Onder de **60 KM/H**, mits op een zachte, vlakke ondergrond (bijvoorbeeld een grasvlakte, maar niet op een berghelling, afgrond, of harde ondergrond).  
-    - **Schieten op banden** van motoren is toegestaan:  
-        - Alleen bij een snelheid van **10 KM/H** of lager.  
-    - **Spijkermatten** mogen worden ingezet:  
-        - Alleen als de snelheid van de motor onder de **120 KM/H** ligt.
+    Motorrijders zijn kwetsbare bestuurders, daarom gelden voor hen de volgende regels:
+    
+    **Het pitten van motoren is toegestaan met de volgende regels:**
+
+    - De motor rijdt onder de 40 km/h
+    - De motor rijdt onder de 60 km/h  op een zachte, vlakke ondergrond (denk hierbij aan een grasvlakte, maar niet op een berghelling, afgrond of verharde ondergrond.)
+
+    **Voor het schieten op banden van motoren geldt de volgende regel:**
+
+    - De motor rijdt zachter als 10 km/h
+
+    **Het gebruik van spijkermatten heeft de volgende regel:**
+
+    - De spijkermat mag alleen ingezet worden als de motor zachter rijdt als 120 km/h
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal een straf opgelegd worden volgens de 1e tot 3e categorie.*</span>
 
