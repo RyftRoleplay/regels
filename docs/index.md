@@ -320,7 +320,7 @@ Zodra er een server restart is geweest is het niet meer toegestaan om actieve he
 Een uitzondering hierop is een onverwachte servercrash of een restart. In dat geval loopt de timer door tot de oorspronkelijk eerstkomende getimde restart.
 
 2. Het beroven van een persoon is toegestaan indien hier een goede reden voor is.
-Zodra er een server restart is geweest is het echter niet meer toegestaan om een actieve herinnering te hebben aan wat er de dag daarvoor heeft plaatsgevonden.
+Zodra de eerstvolgende server-restart heeft plaatsgevonden na het verstrijken van drie dagen, is het niet langer toegestaan om een actieve herinnering te hebben aan gebeurtenissen van de dagen ervoor.
 Dit verwijst tevens ook naar artikel 5 (Wraakacties).
 
 !!! success "Een aantal redenen om iemand te mogen beroven zijn:"
