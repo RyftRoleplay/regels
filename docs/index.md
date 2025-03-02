@@ -330,8 +330,7 @@ Dit verwijst tevens ook naar artikel 5 (Wraakacties).
     - [x] Op het moment dat iemand een holster draagt.
     - [x] Op het moment dat er wapen zichtbaar is.
     - [x] Op het moment dat er iemand op een roterende drugslocatie aanwezig is (met uitzondering van de start van de drugs verkoop NPC.)
-    - [x] Rippen is niet toegestaan in een drugslab
-    - [x] Rippen is niet toegestaan binnen een straal van 100 meter van een drugslab, wanneer de persoon afkomstig is van het drugslab.
+    
 
 *Zodra een van de bovenstaande punten herkend is bij iemand is het toegestaan om diegene tot maximaal 20 minuten daarna te beroven.*
 
@@ -342,6 +341,8 @@ Dit verwijst tevens ook naar artikel 5 (Wraakacties).
     - [ ] Spelers die nieuw zijn binnen de stad.
     - [ ] Op het moment dat iemand een masker/bivakmuts draagt op een motor of scooter.
     - [ ] Een agent dwingen om iemand te fouilleren om een wapen af te nemen om die vervolgens zelf tot je bezit te krijgen.
+    - [ ] Rippen is niet toegestaan in een drugslab
+    - [ ] Rippen is niet toegestaan binnen een straal van 100 meter van een drugslab, wanneer de persoon afkomstig is van het drugslab.
 
 3. Schietincidenten dienen ten alle tijden zoveel mogelijk voorkomen te worden. Probeer eerst te onderhandelen met de politie.
 4. Schietincidenten met overheden dienen zoveel mogelijk beperkt te worden. Probeer altijd eerst te onderhandelen voordat je overgaat tot schieten.
