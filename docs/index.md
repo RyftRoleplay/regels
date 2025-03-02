@@ -330,6 +330,8 @@ Dit verwijst tevens ook naar artikel 5 (Wraakacties).
     - [x] Op het moment dat iemand een holster draagt.
     - [x] Op het moment dat er wapen zichtbaar is.
     - [x] Op het moment dat er iemand op een roterende drugslocatie aanwezig is (met uitzondering van de start van de drugs verkoop NPC.)
+    - [x] Rippen is niet toegestaan in een drugslab
+    - [x] Rippen is niet toegestaan binnen een straal van 100 meter van een drugslab, wanneer de persoon afkomstig is van het drugslab.
 
 *Zodra een van de bovenstaande punten herkend is bij iemand is het toegestaan om diegene tot maximaal 20 minuten daarna te beroven.*
 
