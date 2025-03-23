@@ -56,6 +56,10 @@ Het gebruik maken van een secundair account van jou of van je vrienden is niet t
 Voorbeeld van alten:
 Het is niet toegestaan om je startersgeld aan anderen te geven zonder de bedoeling om zelf te gaan spelen.
 
+Weggeven van spullen bij het stoppen.
+Het is niet toegestaan om spullen aan anderen weg te geven wanneer je stopt met de server of een lange pauze neemt. Eveneens is het niet toegestaan om dergelijke spullen aan te nemen. Overtreding van deze regel kan leiden tot een ban van 3 maanden.
+
+
 ## Artikel 3: Combatloggen
 
 Combatloggen houdt in dat een speler de server verlaat tijdens een situatie zoals een achtervolging, ripactie of een moment waar er een roleplay scenario bezig is.
