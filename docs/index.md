@@ -27,37 +27,202 @@ Indien het niet mogelijk is om het onderling op te lossen is er altijd de mogeli
 
 [Onze discord :fontawesome-brands-discord:](https://discord.com/invite/ryftroleplay){ .md-button .md-button--primary} [Support discord :fontawesome-brands-discord:](https://discord.gg/StxSthaSgn){ .md-button}
 
-## Artikel 1: Cheats, Exploits & Externe Software
+## Artikel 0: Overige regels en bepalingen
+### Artikel 0.1: Staffleden
 
-1. Het gebruik maken van software van externe partijen is niet toegestaan.
+Een stafflid is een vrijwilliger belast met het handhaven van de regels binnen de community, staffleden worden aangeduid d.m.v. een staffhesje en rollen in de discord server.
 
-    !!! danger "Onder deze externe software valt onder andere:"
+### Artikel 0.2: Belangenconflict
+Een stafflid mag een staffzaak / geschil NIET behandelen in de volgende gevallen
+- het stafflid is betrokken in de RP
+- het stafflid is tijdens het conflict in-dienst / aanwezig als/met een van de conflicterende groepen
 
-        - Cheat Software (zoals EULEN).
-        - Custom Crosshairs.
-        - Spoofing software.
-        - Graphic Packs (Denk hierbij aan graphic packs die bepaalde props verklein).
-        - Jouw FOV aanpassen via het F8 menu.
-        - Het gebruiken van een aangepaste beeldschermresolutie.
-        - Tools die sporen verwijderen van je PC.
+### Artikel 0.3: Ontduiking / “Bypassing”
 
-2. Het gebruik maken van bugs/exploits is ten strengste verboden.
+Het is verboden een actie uit te voeren met de intentie om aan een regel te ontsnappen
 
-    !!! bug "Een aantal voorbeelden van bugs zijn:"
-        - Duplication glitches.
-        - Exploits/bugs die jou voordeel bieden ten opzichte van anderen.
+### Artikel 0.4: “Second opinion” / appeal
+
+Als je het niet eens bent met een sanctie die je opgelegd wordt kan je dit bestrijden in een appeal-ticket. Dit wordt in-game NIET opgelost.
+
+## Artikel 1: Cheating / Valsspelen
+### Artikel 1.1: Cheats/Externe software
+
+Het is niet toegestaan om externe software te gebruiken die FiveM beïnvloedt of aanpast
+
+!!! danger "Onder deze externe software valt onder andere:"
+
+    - Cheat Software (zoals EULEN).
+    - Custom Crosshairs.
+    - Spoofing software.
+    - Graphic Packs (Denk hierbij aan graphic packs die bepaalde props verklein).
+    - Jouw FOV aanpassen via het F8 menu.
+    - Het gebruiken van een aangepaste beeldschermresolutie.
+    - Tools die sporen verwijderen van je PC.
+    - Custom beeldverhouding: Het is niet toegestaan om de beeldscherminstellingen op een custom beeldverhouding in te stellen, waardoor grafische elementen disproportioneel breder worden weergegeven. Je moet de juiste beeldverhouding kiezen die past bij je scherm, deze wordt automatisch gedaan met de "Auto" optie.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 7e tot 10e categorie.*</span>
 
-## Artikel 2: Alt accounts
+### Artikel 1.2: Bug/Exploits
 
-Het gebruik maken van een secundair account van jou of van je vrienden is niet toegestaan.
+Het gebruik maken van bugs/exploits is ten strengste verboden.
 
-Voorbeeld van alten:
-Het is niet toegestaan om je startersgeld aan anderen te geven zonder de bedoeling om zelf te gaan spelen.
+!!! bug "Een aantal voorbeelden van bugs zijn:"
+    - Duplication glitches.
+    - Exploits/bugs die jou voordeel bieden ten opzichte van anderen.
 
-Weggeven van spullen bij het stoppen.
-Het is niet toegestaan om spullen aan anderen weg te geven wanneer je stopt met de server of een lange pauze neemt. Eveneens is het niet toegestaan om dergelijke spullen aan te nemen. Overtreding van deze regel kan leiden tot een ban van 3 maanden.
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 7e tot 10e categorie.*</span>
+
+### Artikel 1.3: Samenspelen met cheaters 
+
+Wanneer je samen met iemand speelt waarbij met redelijkerwijs uit kan blijken dat die persoon artikel 1.1 en of 1.2 verbreekt kan je dezelfde straf krijgen als de overtreder heeft gekregen. 
+
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 7e tot 10e categorie.*</span>
+
+### Artikel 1.4: PC checks  
+
+Het is verplicht om mee te werken aan een PC check wanneer dit uitgevoerd moet worden. 
+weiger je dit of pas je handelingen aan die een PC check nutteloos maakt kan je worden verbannen met een categorie 10 ban
+
+In onze stad is het verplicht om Windows Defender als virusscanner te gebruiken. Dit is niet alleen een essentieel onderdeel van onze PC Checks (zie hierboven), maar ook een bewuste keuze op basis van veiligheid en betrouwbaarheid. Veel gratis virusscanners bieden namelijk minder uitgebreide bescherming dan Windows Defender, waardoor spelers kwetsbaarder zijn voor bedreigingen.
+
+### Artikel 1.5: Bespreken van Cheats methodes.
+
+Het is niet toegestaan om in-game of in Discord te bespreken hoe, waar of op welke manier iets verkregen of gebruikt kan worden. 
+
+
+<span style="color: #00bdd6;">*Overtreding van deze regel kan resulteren in een categorie 7 ban voor je primaire account en een permanente ban voor je alt-account.*</span>
+
+### Artikel 1.6: Alternatieve account(s).
+
+Het is niet toegestaan om met een alternatief account te spelen. Overtreding van deze regel kan resulteren in een categorie 7 ban.
+
+Het gebruik van een alternatief account om starters geld aan jezelf of vrienden te geven, kan leiden tot een categorie 7 ban, een wipe van je primaire account en een permanente ban van je alternatieve account.
+
+Indien een alternatief account wordt gebruikt om opzettelijk regels te overtreden, zoals RDM of het gebruik van cheats, kan dit resulteren in een permanente ban op zowel je primaire als alternatieve account.
+
+### Artikel 1.7: IRL trading 
+
+Het is niet toegestaan om items, diensten, accounts of geld te verhandelen door buiten Ryft om met valuta te betalen of andere vormen van compensatie te accepteren. 
+
+<span style="color: #00bdd6;">*Overtreding van deze regel kan leiden tot categorie 9 ban.*</span>
+
+### Artikel 1.8: Weggeven van spullen bij het stoppen
+
+Het is niet toegestaan om spullen aan anderen weg te geven wanneer je stopt met de server of een lange pauze neemt. Eveneens is het niet toegestaan om dergelijke spullen aan te nemen. 
+
+<span style="color: #00bdd6;">*Overtreding van deze regel kan leiden tot een ban van 3 maanden.*</span>
+
+## Artikel 2 Roleplay
+### Artikel 2.1: FailRP
+
+Het is niet toegestaan om spullen aan anderen weg te geven wanneer je stopt met de server of een lange pauze neemt. Eveneens is het niet toegestaan om dergelijke spullen aan te nemen.
+
+Het uitvoeren van handelingen die in het echte leven niet mogelijk of onrealistisch zouden zijn, is verboden. Hieronder enkele voorbeelden:
+
+!!! question "Voorbeelden van FailRP:"
+    - Doen alsof je geen pijn ervaart in situaties waar je dat wel zou moeten.
+    - Communiceren via radio of telefoon tijdens het zwemmen.
+
+
+!!! failure "Verboden handelingen onder FailRP"
+    - Het stelen van een voertuig of de inhoud ervan zonder een goede aanleiding.
+    - Praten terwijl je dood bent.
+    - Opzettelijk een scenario slecht afmaken of verstoren.
+    - Niet meewerken na een behandeling door ambulancepersoneel.
+    - Het opzetten van een wegblokkade terwijl er nog inzittenden in een voertuig zitten.
+    - Na een crash effect of als je voertuig over de kop is gegaan, moet je minimaal 1 minuut in het voertuig blijven zitten. Je mag alleen eerder uitstappen als je door iemand anders uit het voertuig wordt getrokken. Tijdens deze tijd mag je enkel items/wapens droppen, maar niet oppakken of gebruiken.
+    - Een voertuig open lassen zonder RP of geldige reden is niet toegestaan. Dit mag alleen als er goede RP aan verbonden is en bij burgers uitsluitend als de bestuurder is gezien bij criminele activiteiten.
+    - Het bewust verkopen of weggeven van wapens aan nieuwe spelers (met minder dan één dag playtime) is niet toegestaan.
+
+
+<span style="color: #00bdd6;">*Overtredingen van deze regels kunnen resulteren in een straf volgens de 1e tot 4e categorie.*</span>
+
+### Artikel 2.2: Powergaming
+
+Het is niet toegestaan om de keuzevrijheid van een derde afnemen of om opzettelijk een oneerlijk voordeel naar je toe te trekken.
+
+!!! question "Voorbeelden van Powergaming"
+    - /me bindt vast.
+    - /me pakt communicatiemiddelen af.
+    - /me geeft een stoot tegen het hoofd (om dingen te laten vergeten)
+    - /me gebruiken voor onrealistische doeleinden.
+    - Fictief handelen: Het boeien en/of tiewrappen van personen of spullen afpakken zonder gebruik van de juiste mechanica.
+    - ID abuse: ID's gebruiken om spelers te vinden.
+    - Confrontaties vermijden: Het vluchten naar je woning om een conflict te ontlopen.
+    - Onrealistisch gedrag: Een voertuig op slot zetten nadat het open is gelast.
+    - Misbruik van emotes: Emotes zoals /e sleep gebruiken om een schietpartij te ontwijken.
+    - Niet eerlijk verkregen wapens: Het fictief pakken van wapens uit een kofferbak waar geen fysiek wapen aanwezig is.
+    - Bewijsmateriaal: Bewijsmateriaal IC gebruiken wanneer er geen zichtbare vorm van opname materiaal aanwezig is. Een dashcam valt niet onder geldig opname materiaal.
+
+!!! question "In sommige situaties is dit toegestaan:"
+    - Je mag spullen fictief afpakken wanneer je deze items niet mag stelen of af kan afpakken. 
+    - Wanneer je iemand geboeid hebt, maar door een andere game mechanic moeten de boeien af mag je hem aan een object vast boeien of fictieve boeien gebruiken.
+    - Wanneer je een handeling wilt uitvoeren dien je hier een passende emote voor te gebruiken, tenzij je alleen bent dan mag dit vanuit TH. 
+
+!!! failure "Uitzonderingen van Powergaming"
+    - Overheidsinstanties hebben een bodycam ongeacht of deze zichtbaar is. Deze bodycam kan wel afgepakt worden.
+    - Een politie auto heeft een portofoon inbegrepen. Wanneer een agent zijn of haar communicatie dus wordt ingenomen mogen zij via de auto wel terug communiceren.
+    - Het fictief boeien van personen wanneer je wel een menu hiervoor hebt om bugs/game mechanics te vermijden.
+
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
+
+### Artikel 2.3: Metagamen
+
+Gekregen informatie OOC (Out of Character) mag niet worden gebruikt IC (In Character). Dit betekent dat alle informatie die buiten het spel om wordt verkregen, niet mag worden toegepast in de roleplay.
+
+!!! question "Voorbeelden van Metagaming:"
+    - Het delen van je scherm in Discord terwijl je in Ryft Roleplay bent.
+    - Niet muted en deafened zijn in Discord terwijl je in de server speelt.
+    - Het versturen van in-game informatie via Discord of andere externe communicatiekanalen.
+    - Het verkrijgen van informatie over een scenario, locatie of andere in-game zaken buiten je karakter om.
+    - Streamsniping (het kijken naar een livestream om daar voordeel uit te halen) valt ook onder metagaming en wordt zwaarder bestraft.
+
+
+    - Het is verboden om samen te spannen met andere spelers buiten de game om en vervolgens deze afspraken in-game toe te passen voor strategische voordelen. Dit omvat maar is niet beperkt tot het vormen van allianties, het plannen van aanvallen.
+    - Streamsniping valt ook onder META-gaming. Het is niet toegestaan dat jij informatie via een externe bron verkrijgt (zoals een livestream) en dit toepast in-game om bijvoorbeeld de streamer op te zoeken is niet toegestaan.
+
+Het is ten alle tijden verplicht gesteld om in-game (IC) communicatie te gebruiken. Dit houdt in dat alle betrokken spelers in Ryft Roleplay communiceren of via de (Overheids) TeamSpeak. Het gebruik maken van externe middelen voor communiceren is niet toegestaan.
+
+!!! question "Voorbeelden van externe communicatie:"
+    - Discord
+    - WhatsApp
+    - Snapchat
+    - Externe programma's
+    - Externe apps
+
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 3e tot 5e categorie.*</span>
+
+### Artikel 2.4: Impersonatie van overheidsmedewerkers
+
+Het is verboden om kleding met overheidslogo’s, markeringen of namen te dragen als je geen actieve overheidsmedewerker bent.
+
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 2e tot 5e categorie.*
+
+### Artikel 2.5: Copbaiten
+
+Het is niet toegestaan om politieagenten uit te lokken.
+
+Voorbeelden van copbaiten zijn:
+!!! question "Voorbeelden van copbaiten zijn"
+
+    - Misdragend gedrag vertonen bij of rondom het politiebureau.
+    - Het opzoeken van politieagenten om vervolgens overtredingen te begaan om ze achter je aan te krijgen.
+    - Het mengen in scenario's met de intentie om ze te irriteren.
+    - Onnodig reacties uitlokken van politieagenten om vervolgens een scenario te starten.
+    - Een staandehouding of achtervolging uitlokken om een agent te gijzelen.
+
+
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*
+
+### Artikel 2.6: Karakter breken(OOC)-----------------------------------------------------
+
+Out of character (OOC)  praten tijdens een roleplay scenario is niet toegestaan, je kan problemen oplossen via een geschil in /report. Praat je toch OOC tijdens een scenario sta je hoe dan ook in het nadeel en worden alle refunds afgewezen uit de hand van dit scenario, ook word je gestraft met een ban.
+
+Bij overtreding zal dit resulteren in een straf volgens de 1e tot 2e categorie
+
+
+
 
 
 ## Artikel 3: Combatloggen
@@ -81,12 +246,7 @@ Combatstashen is niet toegestaan, dit houdt in dat het niet is toegestaan om bin
 
 Het is ten alle tijden verplicht gesteld om in-game (IC) communicatie te gebruiken. Dit houdt in dat alle betrokken spelers in Ryft Roleplay communiceren of via de (Overheids) TeamSpeak. Het gebruik maken van externe middelen voor communiceren is niet toegestaan.
 
-!!! question "Voorbeelden van externe communicatie:"
-    - Discord
-    - WhatsApp
-    - Snapchat
-    - Externe programma's
-    - Externe apps
+
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
 
