@@ -215,129 +215,289 @@ Voorbeelden van copbaiten zijn:
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*
 
-### Artikel 2.6: Karakter breken(OOC)-----------------------------------------------------
+### Artikel 2.6: Karakter breken (OOC)
 
 Out of character (OOC)  praten tijdens een roleplay scenario is niet toegestaan, je kan problemen oplossen via een geschil in /report. Praat je toch OOC tijdens een scenario sta je hoe dan ook in het nadeel en worden alle refunds afgewezen uit de hand van dit scenario, ook word je gestraft met een ban.
 
-Bij overtreding zal dit resulteren in een straf volgens de 1e tot 2e categorie
+<span style="color: #00bdd6;">*Bij overtreding zal dit resulteren in een straf volgens de 1e tot 2e categorie*
 
+### Artikel 2.7: Karakter
 
+!!! Failure "Voorbeelden van karakter:"
+    - Het is niet toegestaan om in de naam van je karakter gegevens onpasselijke of onrealistische dingen in te voeren.
+    - Het dragen van helmen als burger is niet toegestaan en mag alleen gebruikt worden wanneer je op een motor rijdt.
+    - Het dragen van gezichtsbedekkende kleding als burger is alleen toegestaan wanneer je gezocht wordt of bezig bent met criminele activiteiten.
+    - Het gebruiken van de starters-outfit is niet toegestaan. Je dient te allen tijde een eigen outfit te creëren.
+    - Het is niet toegestaan om onrealistische kledingstukken te dragen.
+    - Het dragen van body armor is alleen toegestaan wanneer je bezig bent met criminele activiteiten. 
 
+ 
 
+### Artikel 2.8: New life rule
 
-## Artikel 3: Combatloggen
+!!! question "Voorbeelden van een New Life Rule:"
 
-Combatloggen houdt in dat een speler de server verlaat tijdens een situatie zoals een achtervolging, ripactie of een moment waar er een roleplay scenario bezig is.
-Het is dus ten alle tijden verplicht om online te blijven totdat de situatie 20 minuten is afgelopen.
+    - Locaties waar zich voorafgaand aan jouw dood belangrijke gebeurtenissen hebben afgespeeld (ripacties, moordacties, …).
+    - Wie je van het leven heeft ontnomen.
+    - Situaties en aanleidingen waarom iets heeft plaatsgevonden.
+    - Zodra een scenario start en jij gedurende dat scenario respawned of uit de gevangenis komt, mag je niet meer koppelen aan datzelfde scenario totdat het voorbij is. Als het scenario vervolgd wordt, bijvoorbeeld iemand die nog wordt aangehouden, valt dit nog steeds onder dit scenario.
 
-<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een tijdelijke ban van de 9e categorie uitgedeeld worden. (Je dient je dus ook te melden in een ticket voor een gepaste straf.)*</span>
+Zodra een scenario start en jij gedurende dat scenario respawned of uit de gevangenis komt, mag je niet meer koppelen aan datzelfde scenario totdat het voorbij is. Als het scenario vervolgd wordt, bijvoorbeeld iemand die nog wordt aangehouden, valt dit nog steeds onder dit scenario.
 
-## Artikel 4: Combatstashing
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 2e tot 5e categorie.*
 
-Combatstashen is niet toegestaan, dit houdt in dat het niet is toegestaan om binnen 20 minuten na het verlaten van een scenario je spullen op te slaan of offline te gaan om hiermee confrontaties te voorkomen.
+### Artikel 2.9: No value of Life (NVOL)
 
-<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een tijdelijke ban van de 9e categorie uitgedeeld worden. (Je dient je dus ook te melden in een ticket voor een gepaste straf.)*</span>
+In Ryft Roleplay dien je je karakter te spelen alsof het een echt leven heeft. Dit betekent dat je je leven niet onnodig in gevaar brengt zonder een goede reden.
 
-## Artikel 5: Metagaming
+**Categorie A – Geen Wapen / Vuurwapen bij de desbetreffende persoon die NVOL verricht**
 
-1. Het is ten alle tijde verplicht om in-game (IC) communicatie te gebruiken. Dit houdt in dat alle betrokken spelers in Ryft of in TeamSpeak (Overheid) communiceren. Het gebruik maken van externe communicatiemiddelen zoals Discord, Whatsapp, Snapchat of andere voice-chat is niet toegestaan.
-2. Het is verboden om samen te spannen met andere spelers buiten de game om en vervolgens deze afspraken in-game toe te passen voor strategische voordelen. Dit omvat maar is niet beperkt tot het vormen van allianties, het plannen van aanvallen.
-3. Streamsniping valt ook onder META-gaming. Het is niet toegestaan dat jij informatie via een externe bron verkrijgt (zoals een livestream) en dit toepast in-game om bijvoorbeeld de streamer op te zoeken is niet toegestaan.
+!!! example "Voorbeelden:"
 
-Het is ten alle tijden verplicht gesteld om in-game (IC) communicatie te gebruiken. Dit houdt in dat alle betrokken spelers in Ryft Roleplay communiceren of via de (Overheids) TeamSpeak. Het gebruik maken van externe middelen voor communiceren is niet toegestaan.
+    - Gevaarlijke stunts uitvoeren, zoals van hoge daken springen.
+    - Bewust gevaarlijke situaties opzoeken zonder geldige reden.
+    - Jezelf in gevaar brengen voor sensatie of om anderen te irriteren.
 
+<span style="color: #00bdd6;">*Straf: Bij overtreding volgt een sanctie volgens de 3e categorie.*   
 
+**Categorie B – Geen Wapen / Vuurwapen gericht op de persoon die NVOL verricht**
+!!! example "Voorbeelden:"
 
-<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
+    - Weglopen van een situatie waarin een wapen op je gericht is, terwijl je geen dreiging vormt.
+    
+<span style="color: #00bdd6;">*Straf: Bij overtreding volgt een sanctie volgens de 4e categorie.*
 
-## Artikel 6: Powergaming
+**Categorie C – Wapen / Vuurwapen bij beide partijen**
 
-Onder powergaming verstaan wij het opzettelijk oneerlijk voordeel naar jezelf toe trekken.
+!!! example "Voorbeelden:"
+    - Weglopen van een situatie waarin een wapen op je gericht is, terwijl je wel een dreiging vormt.
+    - Hard wegrennen nadat je in je benen bent geschoten/zwaargewond bent.
+    - Weerstand bieden nadat je bent overmeesterd of geboeid.
 
-!!! question "Voorbeelden van Powergaming"
-    - Fictief handelen: Het boeien en/of tiewrappen van personen of spullen afpakken zonder gebruik van de juiste mechanica.
-    - ID abuse: ID's gebruiken om spelers te vinden.
-    - Confrontaties vermijden: Het vluchten naar je woning om een conflict te ontlopen.
-    - Onrealistisch gedrag: Een voertuig op slot zetten nadat het open is gelast.
-    - Misbruik van emotes: Emotes zoals /e sleep gebruiken om een schietpartij te ontwijken.
-    - Niet eerlijk verkregen wapens: Het fictief pakken van wapens uit een kofferbak waar geen fysiek wapen aanwezig is.
-    - Bewijsmateriaal: Bewijsmateriaal IC gebruiken wanneer er geen zichtbare vorm van opname materiaal aanwezig is. Een dashcam valt niet onder geldig opname materiaal.
+<span style="color: #00bdd6;">*Straf: Bij overtreding volgt een sanctie volgens de 5e categorie.*
 
-!!! failure "Uitzonderingen van Powergaming"
-    - Overheidsinstanties hebben een bodycam ongeacht of deze zichtbaar is. Deze bodycam kan wel afgepakt worden.
-    - Een politie auto heeft een portofoon inbegrepen. Wanneer een agent zijn of haar communicatie dus wordt ingenomen mogen zij via de auto wel terug communiceren.
-    - Het fictief boeien van personen wanneer je wel een menu hiervoor hebt om bugs/game mechanics te vermijden.
+**Categorie D – Terugschieten / Steken terwijl je overmeesterd bent**
 
-<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
+!!! example "Voorbeelden:"
+    - Terugschieten of iemand steken terwijl er een wapen op je gericht is.
+    - Aanvallen terwijl je al geboeid of overmeesterd bent.
 
-## Artikel 7: Vehicle Death Match (VDM)
+<span style="color: #00bdd6;">*Straf: Bij overtreding volgt een sanctie volgens de 6e categorie.*    
 
-Het gebruiken van een voertuig als wapen is in geen enkel scenario toegestaan.
+### Artikel 2.10: Random Death Match (RDM)
 
-!!! failure "Voorbeelden van VDM:"
-
-    - Iemand opzettelijk aanrijden zonder de intentie hem te vermoorden telt als VDM.
-    - Iemand die tijdens een RP scenario voor je auto staat en je blokkeert mag je niet aanrijden.
-
-*Op lagere snelheid (tot maximaal 10 km/h) is het toegestaan om iemand aan te rijden zodra zij een gevaar vormen voor jou of jouw partij.*
-
-<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 2e tot 4e categorie.*</span>
-
-## Artikel 8: Random Death Match (RDM)
-
-Indien je iemand om het leven wil brengen dient dit ten alle tijden met een geldige reden te zijn.
+Indien je iemand om het leven wil brengen dient dit te allen tijde met een geldige reden te zijn.
 
 !!! failure "Voorbeelden van RDM:"
 
-    - Iemand om leggen zonder enige vorm van voorafgaande Roleplay.
+    - Iemand omleggen zonder enige vorm van voorafgaande Roleplay.
     - Iemand van het leven ontnemen zonder geldige reden.
-    - Het om het leven brengen van iemand die niet meewerkt met het uitvoeren als commando's zoals blaffen.
+    - Het om het leven brengen van iemand die niet meewerkt met het uitvoeren van commando's zoals blaffen.
     - Het om het leven brengen van iemand die ergens van verdacht wordt zonder geldig bewijs.
     - Een massamoord plegen.
 
-<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 3e tot 5e categorie.*</span>
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 3e tot 5e categorie.*
 
-## Artikel 9: No Value Of Life (NVOL)
+### Artikel 2.11: Combat stashing
 
-Binnen Ryft Roleplay dien je ten alle tijden om je leven te geven.
+Combat stashen is niet toegestaan, dit houdt in dat het niet is toegestaan om binnen 20 minuten na het verlaten van een scenario je spullen op te slaan of offline te gaan om hiermee confrontaties te voorkomen. Je dient de spullen OP ZAK te houden gedurende deze 20 minuten. Het mag ook in het dashboard/kofferbak van je auto, indien je bij dit voertuig in de buurt blijft.
 
-!!! question "Voorbeelden van NVOL:"
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een tijdelijke ban van de 9e categorie uitgedeeld worden. (Je dient je dus ook te melden in een ticket voor een gepaste straf.)*
 
-    - Als iemand een wapen op je richt dien je mee te werken. 
-    - Als je belaagd wordt door meerderen dan dien je mee te werken.
+### Artikel 2.12: Combatloggen
 
-Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 5e categorie.
+Combatloggen houdt in dat een speler de server verlaat tijdens een situatie zoals een achtervolging, ripactie of een moment waar er een roleplay scenario bezig is. Het is dus ten alle tijden verplicht om online te blijven totdat de situatie 20 minuten is afgelopen.
 
-## Artikel 10: New Life Rule
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een tijdelijke ban van de 9e categorie uitgedeeld worden. (Je dient je dus ook te melden in een ticket voor een gepaste straf.)*
 
-Een New Life Rule betekend dat er een bij wijs van spreke een "nieuw" leven in gaat.
-Hierbij is het dus niet meer toegestaan om oudere gebeurtenissen die tot jouw dood hebben geleid te herinneren.
+## Artikel 3: Het gebruik van microfoon
+### Artikel 3.1: Microfoon
 
-!!! question "Voorbeelden van een New Life Rule"
+Iedere speler is verplicht om een goed werkende en verstaanbare microfoon te gebruiken. Misbruik van de microfoon is verboden en kan leiden tot sancties.
 
-    - Locaties van afgespeelde situaties.
-    - Wie je van het leven heeft ontnomen.
-    - Situaties en aanleidingen waarom iets heeft plaatsgevonden.
-    - Zodra een scenario start en jij gedurende dat scenario respawned of uit de gevangenis komt, mag je niet meer koppelen aan datzelfde scenario totdat het voorbij is. Als het scenario vervolgt wordt, bijvoorbeeld iemand die nog wordt aangehouden valt dit nog steeds onder dit scenario.
+!!! example "Voorbeelden van microfoonmisbruik:"
 
-<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 2e tot 5e categorie.*</span>
+    - Het earrapen van andere spelers (extreem luide of storende geluiden maken).
+    - Het gebruik van soundpads of voice changers om anderen te irriteren.
 
-## Artikel 11: (Overheids)kleding
+<span style="color: #00bdd6;">*Bij overtreding kunnen sancties worden opgelegd afhankelijk van de ernst van de situatie.*</span>
 
-1. Bij het genereren bij jouw karakter is het verplicht om je kleding aan te passen. Het is dus niet toegestaan om met de standaard starterskleding rond te lopen in de stad.
-Verder is het verplicht om bij het maken van jouw karakter te denken aan realisme en niet te spelen met onzichtbare outfits, lichaamsdelen etc.
-2. Zodra jij in-dienst bent als ambtenaar is het ten alle tijden verplicht om de afgesproken kleding te dragen.
-3. Het is niet toegestaan om als burger de kleding te dragen van een ambtenaar.
+### Artikel 3.2: Stemherkenning
 
-<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 3e categorie.*</span>
+Het is op verschillende manieren mogelijk om een persoon te herkennen aan zijn of haar stem. Hierbij gelden de volgende richtlijnen:
 
-## Artikel 12: Verstoren van RP scenario's
+**Herkennen van stem:**
 
-Op het moment dat andere groeperingen niet gekoppeld zijn aan een scenario mogen zij zich niet mengen in scenario's waar zij niet bij betrokken zijn zodra de eerste groepering bezig is met de politie. 
+Je mag iemand herkennen aan zijn of haar stem, tenzij je de betreffende persoon IC nog nooit eerder hebt ontmoet.
 
-<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 2e tot 4e categorie.*</span>
+**Anders praten dan normaal:**
 
-## Artikel 13: Wraakacties
+Als iemand duidelijk zijn of haar best doet om anders te praten dan normaal, mag de stem niet worden herkend.
+
+**Gebruik van externe software:**
+
+Het is toegestaan om externe software te gebruiken om je stem te vervormen voor criminele activiteiten, mits dit op een realistische manier gebeurt. Het is dan niet toegestaan om de persoon te herkennen aan zijn stem.
+
+### Artikel 3.3: Stemvervormers
+
+Het gebruik van stemvervormers is toegestaan, zolang er een geldige reden voor is. Zorg ervoor dat de stemvervorming realistisch en menselijk blijft klinken. Overdreven of onnatuurlijk klinkende stemmen, zoals robot- of babystemmen, zijn niet toegestaan.
+
+## Artikel 4: Het gebruik van voertuigen
+### Artikel 4.1: Vehicle Deathmatch (VDM)
+
+Het is niet toegestaan om je voertuig te gebruiken als wapen. 
+!!! example "Enkele voorbeelden hiervan zijn."
+
+    - Met je voertuig iemand aanrijden om hem te beroven/aan te houden
+    - Wanneer iemand voor je voertuig staat is het niet toegestaan om hem aan te rijden. 
+    - Op lagere snelheid maximaal 10 km/u is het toegestaan om iemand aan te rijden die een levensgevaarlijke dreiging voor jou of jouw partij vormt. 
+    - Onder een levensgevaarlijke dreiging worden ernstige verwondingen of de dood verstaan.
+
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een tijdelijke ban van de 9e categorie uitgedeeld worden. (Je dient je dus ook te melden in een ticket voor een gepaste straf.)*</span>
+
+### Artikel 4.2: Pitten van voertuigen (VDM)
+
+#### <span style="color:rgb(0, 189, 214);">Artikel 4.2.1 Pitten</span>
+Het is niet toegestaan om voertuigen te pitten die sneller rijden dan 100 km/u. De verkeerspolitie en de DSI mag een voertuig pitten die niet sneller rijdt dan 150 km/u
+
+#### <span style="color:rgb(0, 214, 168);">Artikel 4.2.2 Pittenregels motorvoertuigen</span>
+Motorrijders zijn kwetsbare bestuurders, daarom gelden voor hen de volgende regels over het pitten. Tot op de onderstaande aangegeven snelheden mag een motor gepit worden:
+!!! example "Snelheden" 
+    - De motor rijdt onder de 40 km/h
+    - De motor rijdt onder de 60 km/h op een zachte, vlakke ondergrond (denk hierbij aan een grasvlakte, maar niet op een berghelling, afgrond of verharde ondergrond.)
+
+#### <span style="color:rgb(0, 214, 168);">Artikel 4.2.3 Spijkermatten</span>
+
+Spijkermatten mogen gebruikt worden bij een voertuig dat niet sneller rijdt dan 300 km/u
+
+#### <span style="color:rgb(0, 214, 168);">Artikel 4.2.4 Bandenschieten</span>
+
+De politie mag een voertuig banden schieten indien het niet sneller rijdt dan 150 km/u
+
+#### <span style="color:rgb(0, 214, 168);">Artikel 4.2.5 Categorieen</span>
+
+Het is niet toegestaan om een voertuig van een hogere categorie te pitten dan het voertuig dat de pit uitvoert. 
+
+- Categorie 1: Voertuigen zonder motor
+- Categorie 2: Motoren
+- Categorie 3: Normale voertuigen (kleine busjes, supercars en personenauto’s)
+- Categorie 4: SUVs
+- Categorie 5: Gepantserde voertuigen (Voertuigen met kogelwerende ramen)
+- Categorie 6: Grote bussen
+- Categorie 7: Vrachtwagens
+
+#### <span style="color:rgb(0, 214, 168);">Artikel 4.2.6 Beuken</span>
+Het beuken van voertuigen is niet toegestaan, het klemzetten van een voertuig is wel toegestaan. 
+
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
+
+### Artikel 4.3: Onrealistisch rijgedrag
+
+Het is niet toegestaan om onrealistisch om te gaan met je voertuig 
+
+!!! example "Enkele voorbeelden hiervan zijn:" 
+
+    - Stunt jumps nemen.
+    - Onrealistisch offroad rijden. 
+    - Het rammen/onnodig beuken van andere voertuigen zonder reden.
+    - Het gebruik maken van obstakels om zo ergens overheen te jumpen of te komen met je voertuig.
+
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
+
+### Artikel 4.4: Overheidsvoertuigen 
+
+- Het is alleen toegestaan om een politievoertuig te stelen wanneer je dit nodig hebt om te vluchten van de politie of voor juiste roleplay doeleinden.. Blijf zo min mogelijk in een politievoertuig en wissel zo snel mogelijk over naar een normale auto. 
+- Het is niet toegestaan om een ambulance of ANWB voertuig te stelen. 
+
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
+
+## Artikel 5: Wapens
+
+### Artikel 5.1 Finishing
+ 
+Een zwaargewonde speler mag niet meer zelfstandig opstaan en doorgaan met vechten of schieten.
+Omdat de zwaargewonde speler niet meer actief deelneemt aan het gevecht, mag deze niet worden afgewerkt (gefinisht).
+Een uitzondering hierop kan gelden in situaties waarin finishing realistisch en noodzakelijk is, zoals bij een executie in een criminele setting of als er een directe dreiging is.
+
+!!! example "Enkele voorbeelden hiervan zijn:" 
+    - Een speler wordt beschoten en raakt zwaargewond. Omdat hij niet meer zelfstandig kan vechten, mag de aanvaller hem niet afmaken.
+    - Als de zwaargewonde speler alsnog probeert te schieten of andere onrealistische handelingen uitvoert, kan dit als FailRP worden gezien
+
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
+
+## Artikel 6: Criminaliteit
+Criminaliteit is een onlosmakelijk onderdeel van Ryft. Om de balans tussen roleplay en fair play te waarborgen, gelden de volgende regels voor criminele activiteiten binnen de stad en daarbuiten.
+
+### Artikel 6.1: Rippen en Overvallen 
+#### <span style="color:rgb(0, 214, 168);">6.1.1 Algemene regels overvallen</span>
+
+- Het beroven van een speler is toegestaan wanneer diegene aantoonbaar bezig is met criminele activiteiten.
+- De overval moet binnen 20 minuten na herkenning plaatsvinden. Na deze tijd is rippen niet meer toegestaan.
+
+#### <span style="color:rgb(0, 214, 168);">6.1.2 Toegestane redenen om iemand te rippen</span>
+
+!!! example "Voorbeelden van situaties waarin rippen is toegestaan:" 
+
+    - Het dragen van gezichtsbedekkende kleding.
+    - Het dragen van een motorhelm terwijl de speler niet op een motor zit.
+    - Het dragen van een holster, steek/kogelwerend vest of legerkleding.
+    - Het zichtbaar vasthouden van een wapen.
+    - Praten over criminele activiteiten in de ik-zin (vb. “ik heb zojuist drugs gekookt”).
+    - Het achtervolgen van gewapende mensen langer dan 2 minuten.
+    - Handelingen uitvoeren op roterende drugs- of witwaslocaties.
+
+#### <span style="color:rgb(0, 214, 168);">6.1.3 Situaties waarin rippen niet is toegestaan</span>
+
+- Niet-roterende drugsproductie locaties en de NPC waar je de drugsverkoop start.
+- Spelers zonder criminele indicatie (bijvoorbeeld willekeurige burgers).
+- Startlocaties van illegale activiteiten.
+
+#### <span style="color:rgb(0, 214, 168);">6.1.4 Verboden items bij rippen</span>
+
+!!! example "De volgende items mogen niet worden gestolen tijdens een overval:" 
+
+    - Licentie-job items.
+    - Overheidsitems (zoals tazer of dienstwapens).
+    - Sleutels van gebouwen of woningen.
+    - Geld van een bankrekening.
+    - Spullen die zich in een kluis bevinden.
+    - Items met een beveiligde tag.
+    - Donateurs items
+
+### Artikel 6.2: Counteren 
+
+- Het is niet toegestaan om als derde partij in een overval of achtervolging te mengen wanneer de politie betrokken is.
+- Je mag niet meerijden en schaduwen tijdens een overval of politiejacht als je niet betrokken bent bij het scenario.
+- Setups mogen alleen door rivaliserende groepen worden gecounterd op eigen risico.
+
+### Artikel 6.3: Gangs en Organisaties 
+
+- Een gang mag maximaal 7 leden hebben.
+- Indien niet alle gangleden online zijn, mogen er maximaal 2 extra meelopers deelnemen aan een actie.
+- Indien je gang meer dan 4 leden bevat, mag je niet samenwerken met gangs die ook meer dan 4 leden hebben.
+
+### Artikel 6.4: Overvallen
+
+Overvallen op jachten, banken en winkels mogen plaatsvinden onder de volgende voorwaarden:
+
+- Gegijzelde personen mogen geen vriend of bekende zijn.
+- Er mag geen overval gestart worden binnen een uur voor een server restart (05:00 - 06:00).
+- Na een succesvolle overval mag een crimineel niet binnen 5 minuten al op de politie schieten, tenzij de politie gestelde eisen verbreekt.
+- Zodra de politie aanwezig is bij een overval, is het niet toegestaan om deze te counteren.
+- Counteren tijdens een achtervolging is niet toegestaan (je mag dus ook niet circuleren rond de overval).
+
+### Artikel 6.5: Vrijheidsberoving
+
+- Je mag iemand enkel gijzelen als dit een rol speelt binnen een roleplay scenario zoals een bankoverval of wraakactie.
+- Verboden doelwitten: Ambulancepersoneel en ANWB-medewerkers mogen niet worden gegijzeld.
+- Maximaal 1/3 van de aanwezige agenten mag gegijzeld worden.
+- Je mag iemand maximaal 30 minuten gijzelen alvorens een scenario te starten (overval, wraakactie), start je niks binnen die tijd, dan moet de gegijzelde vrijgelaten worden.
+- Staff kan bepalen of een gegijzelde een fictieve hostage wordt.
+- Je mag geen leden van je eigen gang als hostage gebruiken om een overval te plegen.
+- Het gebruik van een “outside” hostage is niet toegestaan.
+- Een gijzelaar mag geen kennis, vriend of familie van de crimineel zijn.
+
+### Artikel 6.6: Wraak acties
 
 Onder de term wraakacties wordt er verwezen naar het afspelen van een eerdere gebeurtenis of interactie. Wraakacties mogen uitgevoerd worden tot een server restart. Een uitzondering hiervoor geldt op het moment dat de server crashed of dat er een geforceerde restart ingepland wordt.
 
@@ -358,19 +518,53 @@ Onder de term wraakacties wordt er verwezen naar het afspelen van een eerdere ge
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
 
-## Artikel 14: GTA Drivestyle
+## Artikel 7: Taalgebruik
+### Artikel 7.1: Taalgebruik
 
-Onder GTA Drivestyle verstaan wij het onrealistisch besturen van voertuigen zonder enige vorm van realisme.
+Het gebruik maken van ongepaste taal zal bestraft worden met een ban.
 
-!!! example "Een aantal voorbeelden hiervan zijn:"
+Voorbeelden van ongepast taalgebruik:
 
-    - Stunts uitvoeren met een voertuig.
-    - Boten opzettelijk het land laten betreden.
-    - Met voertuigen die niet bestemd zijn voor off-road alsnog off-road gaan.
-    - Het onnodig "pitten" van voertuigen zonder geldige reden of met een zwaardere gewichtsklasse.
+**1e Categorie:**
 
-<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
+Het gebruik maken van ziektes die niet bedoeld zijn om iemand mee te beledigen.
 
+**2e Categorie:**
+
+- Iemand persoonlijk beledigen.
+- Vrouwonvriendelijk gedrag.
+
+**3e Categorie:**
+
+- Iemand beledigen met ziektes.
+- Iemand beledigen en zijn/haar familie erbij betrekken.
+- Racistische/seksistische opmerkingen.
+- Het opzettelijk vernederen van andere personen
+
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 3e tot 7e categorie.*</span>
+
+Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 3e tot 7e categorie.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## OUde regels ______________________________________________________________________________
 ## Artikel 15: Vliegbrevet
 
 Het is binnen Ryft Roleplay verplicht om een vliegend voertuig te besturen met een vliegbrevet.
