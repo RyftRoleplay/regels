@@ -203,7 +203,6 @@ Het is verboden om kleding met overheidslogo’s, markeringen of namen te dragen
 
 Het is niet toegestaan om politieagenten uit te lokken.
 
-Voorbeelden van copbaiten zijn:
 !!! question "Voorbeelden van copbaiten zijn"
 
     - Misdragend gedrag vertonen bij of rondom het politiebureau.
@@ -360,7 +359,7 @@ Het is niet toegestaan om je voertuig te gebruiken als wapen.
 
 ### Artikel 4.2: Pitten van voertuigen (VDM)
 
-#### <span style="color:rgb(0, 189, 214);">Artikel 4.2.1 Pitten</span>
+#### <span style="color:rgb(0, 214, 168);">Artikel 4.2.1 Pitten</span>
 Het is niet toegestaan om voertuigen te pitten die sneller rijden dan 100 km/u. De verkeerspolitie en de DSI mag een voertuig pitten die niet sneller rijdt dan 150 km/u
 
 #### <span style="color:rgb(0, 214, 168);">Artikel 4.2.2 Pittenregels motorvoertuigen</span>
@@ -377,9 +376,9 @@ Spijkermatten mogen gebruikt worden bij een voertuig dat niet sneller rijdt dan 
 
 De politie mag een voertuig banden schieten indien het niet sneller rijdt dan 150 km/u
 
-**Voor het schieten op banden van motoren geldt de volgende regel:**
 
-- De motor rijdt zachter als 10 km/h
+!!! warning "Voor het schieten op banden van motoren geldt de volgende regel:" 
+    - De motor rijdt zachter als 10 km/h
 
 #### <span style="color:rgb(0, 214, 168);">Artikel 4.2.5 Categorieen</span>
 
@@ -480,7 +479,7 @@ Criminaliteit is een onlosmakelijk onderdeel van Ryft. Om de balans tussen rolep
 ### Artikel 6.3: Gangs en Organisaties 
 
 - Een gang mag maximaal 7 leden hebben.
-- Indien niet alle gangleden online zijn, mogen er maximaal 2 extra meelopers deelnemen aan een actie.
+- Indien de helft van het totale aantal gangleden online zijn, mogen er maximaal 2 extra meelopers deelnemen aan een actie.
 - Indien je gang meer dan 4 leden bevat, mag je niet samenwerken met gangs die ook meer dan 4 leden hebben.
 
 ### Artikel 6.4: Overvallen
