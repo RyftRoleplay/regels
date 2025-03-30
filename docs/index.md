@@ -18,7 +18,7 @@
 
 !!! abstract "Introductie"
 
-    Bedankt voor het bezoeken van de regelpagina van Ryft Roleplay. Dit is de eerste stap om een burger te worden in Ryft Roleplay! 
+    Bedankttttt voor het bezoeken van de regelpagina van Ryft Roleplay. Dit is de eerste stap om een burger te worden in Ryft Roleplay! 
     Wij zijn een serieuze Roleplay server  voor FiveM en de regels zijn een cruciaal onderdeel om te kunnen spelen in  de stad! 
     Mochten er enige onduidelijkheden zijn over de serverregels is er altijd de mogelijkheidom een support ticket aan te maken in de Support Discord om meer verduidelijk aan te vragen hierover.
 
