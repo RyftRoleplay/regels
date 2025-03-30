@@ -117,8 +117,6 @@ Het is niet toegestaan om spullen aan anderen weg te geven wanneer je stopt met 
 ## Artikel 2 Roleplay
 ### Artikel 2.1: FailRP
 
-Het is niet toegestaan om spullen aan anderen weg te geven wanneer je stopt met de server of een lange pauze neemt. Eveneens is het niet toegestaan om dergelijke spullen aan te nemen.
-
 Het uitvoeren van handelingen die in het echte leven niet mogelijk of onrealistisch zouden zijn, is verboden. Hieronder enkele voorbeelden:
 
 !!! question "Voorbeelden van FailRP:"
@@ -236,7 +234,6 @@ Out of character (OOC)  praten tijdens een roleplay scenario is niet toegestaan,
     - Situaties en aanleidingen waarom iets heeft plaatsgevonden.
     - Zodra een scenario start en jij gedurende dat scenario respawned of uit de gevangenis komt, mag je niet meer koppelen aan datzelfde scenario totdat het voorbij is. Als het scenario vervolgd wordt, bijvoorbeeld iemand die nog wordt aangehouden, valt dit nog steeds onder dit scenario.
 
-Zodra een scenario start en jij gedurende dat scenario respawned of uit de gevangenis komt, mag je niet meer koppelen aan datzelfde scenario totdat het voorbij is. Als het scenario vervolgd wordt, bijvoorbeeld iemand die nog wordt aangehouden, valt dit nog steeds onder dit scenario.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 2e tot 5e categorie.*
 
@@ -532,6 +529,18 @@ Voordat de transactie plaatsvindt, moet je verifiëren of de upgrades daadwerkel
 
 Het uitlenen van voertuigen, geld of andere bezittingen gebeurt volledig op eigen risico.
 Er vindt geen refund of transfer plaats als iemand besluit niet terug te betalen of als een speler wordt verbannen.
+
+### 7.4 Het scammen van illegale goederen
+
+Het is toegestaan om mensen te scammen voor illegale goederen als dit bedrag onder 30K wit of 60K zwart. Als dit bedrag dus 30K wit of 60K zwart bedraagt of hoger is dan dit dan mag hiervoor niet gescammed worden. Je mag de persoon niet handsuppen om het geld terug te eisen. Zorg dus dat er op voorhand een duidelijke afspraak is over de prijs en dat je dit op clip hebt.
+
+Voorbeeld: Je belt iemand van een groepering om een wapen te kopen. Je betaalt hem 25K wit voor 2 pistolen maar hij rijdt weg en scamt je.
+
+### 7.5 Het ripdealen van illegale goederen
+
+Het is enkel toegestaan om mensen te ripdealen als dit bedrag onder de 60K wit of 120K zwart is. Als het 60K wit of 120K zwart is of hoger dan mag dit NIET meer! Zorg dus dat er op voorhand een duidelijke afspraak is over de prijs en dat je dit op clip hebt.
+
+Voorbeeld: Je belt iemand van een groepering om je 2 pistols te verkopen voor 50K wit. Je komt aanrijden en plots wordt je helemaal ingeboxd en gehandsupped en worden je twee pistols afgenomen.
 
 ## Artikel 8: Bovenwereld/ambtenaren
 
