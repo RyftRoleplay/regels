@@ -1,7 +1,7 @@
 # Regels Ryft Roleplay
 
 <p align="center">
-  <img src="assets/logoan2.gif" alt="Ryft Logo" style="border-radius: 20%; width: 400px;"/>
+  <img src="assets/ryft.png" alt="Ryft Logo" style="border-radius: 20%; width: 400px;"/>
 </p>
 
 <p style="text-align: center; font-weight: bold; font-style: italic; font-size: 1.3em">
@@ -513,6 +513,14 @@ Onder de term wraakacties wordt er verwezen naar het afspelen van een eerdere ge
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
 
+### Artikel 6.7: Drugstafels
+
+Het verwerken van drugs door middel van drugstafels en/of attributen zijn niet toegestaan in huizen (uitgezonderd MLO's Die niet in bezit zijn)  of plaatsen waar het niet mogelijk is om te komen. 
+
+Deze attributen dienen bovendien op een realistische plek geplaatst te worden. Op een steile helling een tafel plaatsen is dus verboden.
+
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie. Ook worden de spullen afgepakt.*</span>
+
 ## Artikel 7: Scammen
 ### Artikel 7.1: Verbod op scams met voertuigen
 
@@ -742,3 +750,18 @@ Het vliegen boven deze locaties zonder speciale toestemming is ten strengste ver
 
 - Ambulance- en politiehelikopters zijn uitgezonderd van de bovengenoemde regels.
 - Zij zijn bevoegd om laag te vliegen en te landen op alle locaties, mits dit veilig en noodzakelijk is.
+
+## Artikel 15: Huizen
+
+### Artikel 15.1: Meubels
+Het is niet toegestaan om misbruik te maken van meubels binnen of buitens huis.
+
+!!! Failure "Enkele voorbeelden hiervan"
+- Opslag buiten plaatsen
+- Meubels onrealitsch plaatsen
+- Meubels gebruiken om delen van je af te blokeren of om opslag te verbergen.
+- Verlichting misbruiken om mensen te verblinden. 
+
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie. Ook kan een huis/inboedel inbeslag genomen worden.*</span>
+
+

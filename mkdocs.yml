@@ -24,8 +24,8 @@ theme:
         icon: material/brightness-4
         name: Verwissel naar lichte modus
   language: nl
-  logo: assets/logo.png
-  favicon: assets/logo.png
+  logo: assets/ryft.png
+  favicon: assets/ryft.png
 
   features:
     - toc.follow
