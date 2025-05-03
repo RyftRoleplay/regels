@@ -757,10 +757,10 @@ Het vliegen boven deze locaties zonder speciale toestemming is ten strengste ver
 Het is niet toegestaan om misbruik te maken van meubels binnen of buitens huis.
 
 !!! Failure "Enkele voorbeelden hiervan"
-- Opslag buiten plaatsen
-- Meubels onrealitsch plaatsen
-- Meubels gebruiken om delen van je af te blokeren of om opslag te verbergen.
-- Verlichting misbruiken om mensen te verblinden. 
+    - Opslag buiten plaatsen
+    - Meubels onrealitsch plaatsen
+    - Meubels gebruiken om delen van je af te blokeren of om opslag te verbergen.
+    - Verlichting misbruiken om mensen te verblinden. 
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie. Ook kan een huis/inboedel inbeslag genomen worden.*</span>
 
