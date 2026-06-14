@@ -754,7 +754,7 @@ Het vliegen boven deze locaties zonder speciale toestemming is ten strengste ver
 ## Artikel 15: Huizen
 
 ### Artikel 15.1: Meubels
-Het is niet toegestaan om misbruik te maken van meubels binnen of buitens huis.
+Het is niet toegestaan om misbruik te maken van meubels binnen of buitens huis. jeroen poepslaaf
 
 !!! Failure "Enkele voorbeelden hiervan"
     - Opslag buiten plaatsen
