@@ -36,12 +36,14 @@ Een stafflid is een vrijwilliger belast met het handhaven van de regels binnen d
 
 Een stafflid mag een staffzaak / geschil NIET behandelen in de volgende gevallen:
 
-- het stafflid is betrokken in de RP
-- het stafflid is tijdens het conflict in-dienst / aanwezig als/met een van de conflicterende groepen
+- Het stafflid is betrokken in de RP
+- Het stafflid is tijdens het conflict in-dienst / aanwezig als/met een van de conflicterende groepen
+- Het stafflid heeft hechte banden met betrokken personen buiten de server om.
+- Het stafflid mag geen appeal-tickets behandelen die gemaakt zijn tegen zijn/haar gemaakte beslissing.
 
 ### Artikel 0.3: Ontduiking / “Bypassing”
 
-Het is verboden een actie uit te voeren met de intentie om aan een regel te ontsnappen
+Het is verboden een actie uit te voeren met de intentie om aan een regel te ontsnappen.
 
 ### Artikel 0.4: “Second opinion” / appeal
 
@@ -54,10 +56,10 @@ Het is niet toegestaan om externe software te gebruiken die FiveM beïnvloedt of
 
 !!! danger "Onder deze externe software valt onder andere:"
 
-    - Cheat Software (zoals EULEN).
+    - Cheat Software (zoals EULEN, redENGINE, ...).
     - Custom Crosshairs.
     - Spoofing software.
-    - Graphic Packs (Denk hierbij aan graphic packs die bepaalde props verklein).
+    - Graphic Packs (Denk hierbij aan graphic packs die bepaalde props verkleinen).
     - Jouw FOV aanpassen via het F8 menu.
     - Het gebruiken van een aangepaste beeldschermresolutie.
     - Tools die sporen verwijderen van je PC.
@@ -323,17 +325,13 @@ Het is op verschillende manieren mogelijk om een persoon te herkennen aan zijn o
 
 Je mag iemand herkennen aan zijn of haar stem, tenzij je de betreffende persoon IC nog nooit eerder hebt ontmoet.
 
-**Anders praten dan normaal:**
-
-Als iemand duidelijk zijn of haar best doet om anders te praten dan normaal, mag de stem niet worden herkend.
-
 **Gebruik van externe software:**
 
 Het is toegestaan om externe software te gebruiken om je stem te vervormen voor criminele activiteiten, mits dit op een realistische manier gebeurt. Het is dan niet toegestaan om de persoon te herkennen aan zijn stem.
 
 ### Artikel 3.3: Stemvervormers
 
-Het gebruik van stemvervormers is toegestaan, zolang er een geldige reden voor is. Zorg ervoor dat de stemvervorming realistisch en menselijk blijft klinken. Overdreven of onnatuurlijk klinkende stemmen, zoals robot- of babystemmen, zijn niet toegestaan.
+Het gebruik van stemvervormers is toegestaan, zolang er een geldige reden voor is. Zorg ervoor dat de stemvervorming realistisch en menselijk blijft klinken. Overdreven of onnatuurlijk klinkende stemmen, zoals robot- of babystemmen, zijn niet toegestaan. Je moet verstaanbaar blijven.
 
 ## Artikel 4: Het gebruik van voertuigen
 ### Artikel 4.1: Vehicle Deathmatch (VDM)
@@ -343,7 +341,7 @@ Het is niet toegestaan om je voertuig te gebruiken als wapen.
 
     - Met je voertuig iemand aanrijden om hem te beroven/aan te houden
     - Wanneer iemand voor je voertuig staat is het niet toegestaan om hem aan te rijden. 
-    - Op lagere snelheid maximaal 10 km/u is het toegestaan om iemand aan te rijden die een levensgevaarlijke dreiging voor jou of jouw partij vormt. 
+    - Op lagere snelheid maximaal 15 km/u is het toegestaan om iemand aan te rijden die een levensgevaarlijke dreiging voor jou of jouw partij vormt. 
     - Onder een levensgevaarlijke dreiging worden ernstige verwondingen of de dood verstaan.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een tijdelijke ban van de 9e categorie uitgedeeld worden. (Je dient je dus ook te melden in een ticket voor een gepaste straf.)*</span>
@@ -356,8 +354,8 @@ Het is niet toegestaan om voertuigen te pitten die sneller rijden dan 100 km/u. 
 #### <span style="color:rgb(0, 214, 168);">Artikel 4.2.2 Pittenregels motorvoertuigen</span>
 Motorrijders zijn kwetsbare bestuurders, daarom gelden voor hen de volgende regels over het pitten. Tot op de onderstaande aangegeven snelheden mag een motor gepit worden:
 !!! warning "Snelheden" 
-    - De motor rijdt onder de 40 km/h
-    - De motor rijdt onder de 60 km/h op een zachte, vlakke ondergrond (denk hierbij aan een grasvlakte, maar niet op een berghelling, afgrond of verharde ondergrond.)
+    - De motor rijdt onder de 50 km/h
+
 
 #### <span style="color:rgb(0, 214, 168);">Artikel 4.2.3 Spijkermatten</span>
 
@@ -369,7 +367,7 @@ De politie mag een voertuig banden schieten indien het niet sneller rijdt dan 15
 
 
 !!! warning "Voor het schieten op banden van motoren geldt de volgende regel:"
-    - De motor rijdt zachter als 10 km/h
+    - De motor rijdt zachter als 50 km/h
 
 #### <span style="color:rgb(0, 214, 168);">Artikel 4.2.5 Categorieen</span>
 
@@ -379,8 +377,8 @@ Het is niet toegestaan om een voertuig van een hogere categorie te pitten dan he
 - Categorie 2: Motoren
 - Categorie 3: Normale voertuigen (kleine busjes, supercars en personenauto’s)
 - Categorie 4: SUVs
-- Categorie 5: Gepantserde voertuigen (Voertuigen met kogelwerende ramen)
-- Categorie 6: Grote bussen
+- Categorie 5: Bestelbussen
+- Categorie 6: Gepantserde voertuigen (Voertuigen met kogelwerende ramen)
 - Categorie 7: Vrachtwagens
 
 #### <span style="color:rgb(0, 214, 168);">Artikel 4.2.6 Beuken</span>
@@ -412,13 +410,7 @@ Het is niet toegestaan om onrealistisch om te gaan met je voertuig
 
 ### Artikel 5.1 Finishing
 
-Een zwaargewonde speler mag niet meer zelfstandig opstaan en doorgaan met vechten of schieten.
-Omdat de zwaargewonde speler niet meer actief deelneemt aan het gevecht, mag deze niet worden afgewerkt (gefinisht).
-Een uitzondering hierop kan gelden in situaties waarin finishing realistisch en noodzakelijk is, zoals bij een executie in een criminele setting of als er een directe dreiging is.
-
-!!! example "Enkele voorbeelden hiervan zijn:"
-    - Een speler wordt beschoten en raakt zwaargewond. Omdat hij niet meer zelfstandig kan vechten, mag de aanvaller hem niet afmaken.
-    - Als de zwaargewonde speler alsnog probeert te schieten of andere onrealistische handelingen uitvoert, kan dit als FailRP worden gezien
+Een zwaargewonde speler mag enkel gefinisht worden bij pure noodzaak, in andere situaties dien je de persoon te laten leven, dit om ambulance roleplay en speelplezier voor alle partijen te stimuleren.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
 
@@ -439,36 +431,34 @@ Criminaliteit is een onlosmakelijk onderdeel van Ryft. Om de balans tussen rolep
     - Het dragen van een motorhelm terwijl de speler niet op een motor zit.
     - Het dragen van een holster, steek/kogelwerend vest of legerkleding.
     - Het zichtbaar vasthouden van een wapen.
-    - Praten over criminele activiteiten in de ik-zin (vb. “ik heb zojuist drugs gekookt”).
     - Het achtervolgen van gewapende mensen langer dan 2 minuten.
     - Handelingen uitvoeren op roterende drugs- of witwaslocaties.
 
 #### <span style="color:rgb(0, 214, 168);">6.1.3 Situaties waarin rippen niet is toegestaan</span>
 
-- Niet-roterende drugsproductie locaties en de NPC waar je de drugsverkoop start.
 - Spelers zonder criminele indicatie (bijvoorbeeld willekeurige burgers).
 - Startlocaties van illegale activiteiten.
 
 #### <span style="color:rgb(0, 214, 168);">6.1.4 Verboden items bij rippen</span>
 
-!!! example "De volgende items mogen niet worden gestolen tijdens een overval:"
+!!! example "De volgende items mogen niet worden gestolen tijdens een overval of rip-actie:"
 
-    - Licentie-job items.
-    - Overheidsitems (zoals tazer of dienstwapens).
+    - Job items (legaal).
+    - Overheidsitems (zoals dienstwapens of apparatuur, ter herkennen aan het serienummer 'OVERHEID').
     - Sleutels van gebouwen of woningen.
     - Geld van een bankrekening.
     - Spullen die zich in een kluis bevinden.
-    - Items met een beveiligde tag.
+    - Items met een beveiligde tag (vb.: management pizza, andere ingame staff-items, ...).
     - Donateurs items
 
 ### Artikel 6.2: Counteren
 
-Counteren is enkel en alleen toegestaan wanneer de groepering die je wilt counteren in achtervolging is met de politie. Je mag enkel de andere groepering counteren, niet de politie. Het is dan ook pas toegestaan op de politie te schieten wanneer zij een grote dreiging voor jou vormen.
+Counteren is enkel en alleen toegestaan wanneer de politie nog niet ter plaatse of betrokken is. Zodra politie deelneemt aan het scenario, blijf je als derde partij uit het scenario.
 
 ### Artikel 6.3: Gangs en Organisaties
 
-- Een gang mag maximaal 7 leden hebben.
-- Indien de helft van het totale aantal gangleden online zijn, mogen er maximaal 2 extra meelopers deelnemen aan een actie.
+- Een gang mag maximaal 10 leden hebben.
+- Indien de helft van het totale aantal gangleden online zijn, mogen er maximaal 2 meelopers (spelers die niet in de gang zitten) deelnemen aan een actie.
 - Indien je gang meer dan 4 leden bevat, mag je niet samenwerken met gangs die ook meer dan 4 leden hebben.
 
 ### Artikel 6.4: Overvallen
@@ -476,21 +466,19 @@ Counteren is enkel en alleen toegestaan wanneer de groepering die je wilt counte
 Overvallen op jachten, banken en winkels mogen plaatsvinden onder de volgende voorwaarden:
 
 - Gegijzelde personen mogen geen vriend of bekende zijn.
-- Er mag geen overval gestart worden binnen een uur voor een server restart (05:00 - 06:00).
-- Na een succesvolle overval mag een crimineel niet binnen 5 minuten al op de politie schieten, tenzij de politie gestelde eisen verbreekt.
+- Er mag geen overval gestart worden binnen een halfuur voor een server restart.
+- Na een succesvolle overval mag een crimineel niet binnen 5 minuten al op de politie schieten, tenzij de politie de gestelde eisen verbreekt.
 - Zodra de politie aanwezig is bij een overval, is het niet toegestaan om deze te counteren.
-- Counteren tijdens de achtervolging is wel toegestaan (zie Artikel 6.2)
+- Counteren tijdens de achtervolging tussen een andere groepering en de politie is niet toegestaan (zie Artikel 6.2)
 
 ### Artikel 6.5: Vrijheidsberoving
 
 - Je mag iemand enkel gijzelen als dit een rol speelt binnen een roleplay scenario zoals een bankoverval of wraakactie.
 - Verboden doelwitten: Ambulancepersoneel en ANWB-medewerkers mogen niet worden gegijzeld.
-- Maximaal 1/3 van de aanwezige agenten mag gegijzeld worden.
+- Maximaal 1/3 van de aanwezige agenten mag gegijzeld worden met een maximum van 5 gegijzelde agenten tegelijkertijd.
 - Je mag iemand maximaal 30 minuten gijzelen alvorens een scenario te starten (overval, wraakactie), start je niks binnen die tijd, dan moet de gegijzelde vrijgelaten worden.
-- Staff kan bepalen of een gegijzelde een fictieve hostage wordt.
-- Je mag geen leden van je eigen gang als hostage gebruiken om een overval te plegen.
-- Het gebruik van een “outside” hostage is niet toegestaan.
-- Een gijzelaar mag geen kennis, vriend of familie van de crimineel zijn.
+- Je mag geen vrienden of bekenden als hostage gebruiken om een overval te plegen.
+- Het gebruik van een “outside” hostage is niet toegestaan (de hostage moet dus altijd op dezelfde plaats zijn als waar de onderhandelingen plaatsvinden).
 
 ### Artikel 6.6: Wraak acties
 
@@ -505,19 +493,21 @@ Onder de term wraakacties wordt er verwezen naar het afspelen van een eerdere ge
 !!! failure "Een aantal voorbeelden waarin het niet toegestaan is om een wraakactie uit te voeren:"
 
     - Een agent die een boete uitschrijft: Op het moment dat een agent een boete uitschrijft is het niet toegestaan om wraak te nemen. De boete dient geaccepteerd te worden tenzij het mogelijk is om binnen RP de situatie op een andere manier op te lossen.
-    - Een verloren gevecht of confrontatie: Op het moment dat jij in een conflict komt met iemand is het niet toegestaan om onmiddelijk wraak te nemen op diegene. Op het moment dat jij overleden bent is het in zijn geheel niet meer toegestaan om wraak te nemen i.v.m. de New Life Rule (NLR).
+    - Op het moment dat jij overleden bent is het in zijn geheel niet meer toegestaan om wraak te nemen i.v.m. de New Life Rule (NLR).
     - Onbedoelde confrontatie: Op het moment dat iemand zonder de intentie schade of iets toericht bij jou is het niet toegestaan om wraak te nemen hierop.
     - Direct na een scenario met de ambulance. Pas na 5 minuten zonder ambulance roleplay is het weer toegestaan om verder te handelen met een persoon.
     - Zodra een persoon gerespawned is heeft geen van beide partijen meer het recht om nog wraak te nemen op elkaar.
     - Op het moment dat een ambtenaar een arrestatie heeft verricht is het niet toegestaan om vervolgens wraak te nemen op de desbetreffende ambtenaar of andere ambtenaren.
 
+Indien goedgekeurd door management, kan een wraakactie aanleiding zijn tot een 'gangwar' waarbij de tijdslimieten van wraakacties vervallen.
+
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
 
-### Artikel 6.7: Drugstafels
+### Artikel 6.7: Drugsproductie
 
-Het verwerken van drugs door middel van drugstafels en/of attributen zijn niet toegestaan in huizen (uitgezonderd MLO's Die niet in bezit zijn)  of plaatsen waar het niet mogelijk is om te komen. 
+Het verwerken of produceren van drugs door middel van plaatsbare objecten zijn niet toegestaan in huizen (uitgezonderd MLO's Die niet in bezit zijn)  of plaatsen waar het niet mogelijk is om te komen. 
 
-Deze attributen dienen bovendien op een realistische plek geplaatst te worden. Op een steile helling een tafel plaatsen is dus verboden.
+Deze objecten dienen bovendien op een realistische plek geplaatst te worden. Op een steile helling een tafel plaatsen is dus verboden.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie. Ook worden de spullen afgepakt.*</span>
 
@@ -538,26 +528,18 @@ Voordat de transactie plaatsvindt, moet je verifiëren of de upgrades daadwerkel
 Het uitlenen van voertuigen, geld of andere bezittingen gebeurt volledig op eigen risico.
 Er vindt geen refund of transfer plaats als iemand besluit niet terug te betalen of als een speler wordt verbannen.
 
-### 7.4 Het scammen van illegale goederen
+### 7.4 Het scammen of ripdealen van illegale goederen
 
-Het is toegestaan om mensen te scammen voor illegale goederen als dit bedrag onder 30K wit of 60K zwart. Als dit bedrag dus 30K wit of 60K zwart bedraagt of hoger is dan dit dan mag hiervoor niet gescammed worden. Je mag de persoon niet handsuppen om het geld terug te eisen. Zorg dus dat er op voorhand een duidelijke afspraak is over de prijs en dat je dit op clip hebt.
-
-Voorbeeld: Je belt iemand van een groepering om een wapen te kopen. Je betaalt hem 25K wit voor 2 pistolen maar hij rijdt weg en scamt je.
-
-### 7.5 Het ripdealen van illegale goederen
-
-Het is enkel toegestaan om mensen te ripdealen als dit bedrag onder de 60K wit of 120K zwart is. Als het 60K wit of 120K zwart is of hoger dan mag dit NIET meer! Zorg dus dat er op voorhand een duidelijke afspraak is over de prijs en dat je dit op clip hebt.
-
-Voorbeeld: Je belt iemand van een groepering om je 2 pistols te verkopen voor 50K wit. Je komt aanrijden en plots wordt je helemaal ingeboxd en gehandsupped en worden je twee pistols afgenomen.
+Het is toegestaan om mensen te scammen of ripdealen voor illegale goederen. Wraakacties naar aanleiding van ripdeals of oplichtingen zijn toegestaan. Zorg dus dat je goed weet met wie je zaken doet.
 
 ## Artikel 8: Bovenwereld/ambtenaren
 
 **Algemeen**
-Ambtenaren zijn spelers met toegang tot het F6-menu binnen een overheidsorganisatie (zoals Politie, Ambulance en ANWB). Deze functie brengt verantwoordelijkheid en voorbeeldgedrag met zich mee.
+Ambtenaren zijn spelers met toegang tot speciale acties binnen een overheidsorganisatie (zoals Politie, Ambulance en Pechhulp). Deze functie brengt verantwoordelijkheid en voorbeeldgedrag met zich mee.
 
 ??? Failure "Verboden gedragingen tijdens of na diensttijd"
 
-    - Deelname aan illegale activiteiten is verboden. (Uitzondering: ANWB en Ambulance kunnen hier binnen functionele grenzen van afwijken.)
+    - Deelname aan illegale activiteiten is verboden. (Uitzondering: Pechhulp en Ambulance mogen dit buiten dienst wel)
     - Het is verboden om overheidsmiddelen zoals een taser, dienstwapen of medische spullen bij je te dragen wanneer je niet in dienst bent.
     - Na ontslag mag je geen informatie gebruiken die je tijdens je diensttijd hebt verkregen.
     - Het combineren van je overheidsfunctie met een andere baan waarvoor je in dienst moet zijn, is niet toegestaan.
@@ -566,7 +548,7 @@ Ambtenaren zijn spelers met toegang tot het F6-menu binnen een overheidsorganisa
     - Farmen van geld binnen een overheidsbaan (bijvoorbeeld door onnodig acties te herhalen voor salaris) is niet toegestaan.
     - Testritten of verkoop van voertuigen tijdens diensttijd is verboden.
     - Het verduisteren van goederen of doorspelen van gevoelige informatie is strafbaar. Denk aan:
-        - MEOS-gegevens
+        - MDT-gegevens
         - Interne documenten of dossiers
     - Hangen op gang- of crimineel terrein (in of uit dienst) zonder reden is niet toegestaan. Alleen meldingen afhandelen is toegestaan.
     - Overheidsmedewerkers mogen niet worden aangespoord tot corrupt gedrag.
@@ -587,135 +569,70 @@ Het gebruik van Twitter binnen Ryft Roleplay is bedoeld voor realistische en gep
 ### Artikel 9.1 - Verbod op illegale activiteiten via Twitter
 
 - Het plaatsen van berichten over illegale activiteiten (zoals wapenhandel, drugsverkoop en illegale locaties) op Twitter is verboden.
-- Het gebruik van codewoorden die indirect verwijzen naar illegale activiteiten, zoals "Gezocht: Metaal", is eveneens niet toegestaan.
+- Het gebruik van codewoorden die indirect verwijzen naar illegale activiteiten, zoals "Gezocht: snoepjes", is eveneens niet toegestaan.
 - Illegale activiteiten mogen alleen worden gedeeld via Dark Web of Messages binnen roleplay.
 
-## Artikel 10 : Taalgebruik
+## Artikel 10 : Taalgebruik & gedrag
 ### Artikel 10.1: Taalgebruik
 
 Het gebruik maken van ongepaste taal zal bestraft worden met een ban.
 
 Voorbeelden van ongepast taalgebruik:
 
-**1e Categorie:**
-
-Het gebruik maken van ziektes die niet bedoeld zijn om iemand mee te beledigen.
-
-**2e Categorie:**
-
+- Het gebruik maken van ziektes die niet bedoeld zijn om iemand mee te beledigen.
 - Iemand persoonlijk beledigen.
-- Vrouwonvriendelijk gedrag.
-
-**3e Categorie:**
-
 - Iemand beledigen met ziektes.
 - Iemand beledigen en zijn/haar familie erbij betrekken.
 - Racistische/seksistische opmerkingen.
 - Het opzettelijk vernederen van andere personen
 
-<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 3e tot 7e categorie.*</span>
+<span style="color: #00bdd6;">*De straf kan variëren van de 1e categorie tot de 7e categorie, afhankelijk van de ernst van de overtreding, in te schatten door het handelende stafflid.*</span>
 
-### Artikel 10.2 Respectvol Gedrag & Geen Toxiciteit
+### Artikel 10.2 Gedrag
 
-Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 3e tot 7e categorie.
+Bij Ryft Roleplay staat respect centraal. Respectloos, intimiderend of verstorend gedrag wordt niet getolereerd, zowel in-game als op alle aan de community gerelateerde communicatiekanalen, waaronder Discord.
 
-Bij Ryft Roleplay staat respect centraal. Toxiciteit en respectloos gedrag worden niet getolereerd, zowel in-game als buiten de server (bijvoorbeeld in Discord of andere communicatiekanalen).
+<span style="color: #00bdd6;">De straf kan variëren van de 1e categorie tot de 7e categorie, afhankelijk van de ernst van de overtreding, ter beoordeling van het handelende stafflid.</span>
 
-#### <span style="color:rgb(0, 214, 168);">10.2.1 - Algemeen verbod op toxic gedrag</span>
+#### <span style="color:rgb(0, 214, 168);">10.2.1 - Respectvol gedrag</span>
 
 Het is verboden om:
 
-- Spelers opzettelijk te frustreren, provoceren of irriteren.
-- Beledigend, grof of respectloos taalgebruik te hanteren.
-- Onnodig agressief of intimiderend gedrag te vertonen.
-- Dreigementen te uiten, zowel IC (In Character) als OOC (Out of Character).
+Andere spelers of communityleden opzettelijk te provoceren, frustreren of lastig te vallen.
+Beledigend, discriminerend, respectloos of onnodig agressief gedrag te vertonen.
+Te dreigen, te intimideren of anderen onder druk te zetten.
+De sfeer binnen de community op negatieve wijze te verstoren.
 
-#### <span style="color:rgb(0, 214, 168);">10.2.2 - Bedreiging & intimidatie</span>
+#### <span style="color:rgb(0, 214, 168);">10.2.2 - Respect voor staffleden</span>
 
-- Bedreiging of intimidatie van spelers is ten strengste verboden.
-- Dit geldt zowel binnen roleplay-scenario’s als buiten roleplay.
-- Dreigementen of intimidatie via externe platformen (zoals Discord) worden even serieus genomen.
+Staffleden dienen te allen tijde met respect behandeld te worden. Het beledigen, uitschelden, intimideren of op andere wijze respectloos behandelen van staffleden is verboden.
 
-#### <span style="color:rgb(0, 214, 168);">10.2.3 - Toxic gedrag buiten de server</span>
-
-Respectloos gedrag in Discord of op andere sociale platforms is niet toegestaan.
-Het verstoren van de sfeer binnen de community door negatief of toxisch gedrag is verboden.
-
-#### <span style="color:rgb(0, 214, 168);">10.2.4 - Respect voor staffleden</span>
-
-- Het uitschelden, beledigen of respectloos behandelen van staffleden is verboden.
-- Dit geldt zowel in-game als buiten de server.
-
-Staffleden werken aan een positieve ervaring voor iedereen en dienen met respect behandeld te worden.
-
-## Artikel 11: Cayo Perico (Het eiland)
-
-Cayo Perico is een Red-Zone, wat betekent dat hier andere regels gelden dan in de rest van Ryft. Dit eiland is een gevaarlijk gebied waar misdaad hoogtij viert en de overheid weinig controle heeft. Houd je aan de onderstaande regels om problemen te voorkomen
-
-### Artikel 11.1: Algemene regels op Cayo Perico
-
-- Alles is toegestaan binnen de Red-Zone, waaronder het vermoorden en beroven van personen zonder reden.
-- Vechten en schieten zonder waarschuwing is toegestaan. Wees voorbereid op gevaarlijke situaties.
-- Iedereen die Cayo Perico betreedt, accepteert de risico's van het eiland. Klagen over berovingen of moorden is niet mogelijk.
-- De overheid heeft geen actieve invloed op Cayo Perico. Politie en andere hulpdiensten reageren niet op oproepen binnen de Red-Zone.
-
-### Artikel 11.2: Vlieg- en vaarregels
-
-- Het landen en opstijgen op Cayo Perico mag alleen op daarvoor bestemde landingsbanen en helikopterdekken.
-- Het water rondom Cayo Perico is geen veilige zone. Aanmeren zonder bescherming kan riskant zijn.
-- Luchtverkeer boven het eiland is volledig op eigen risico. Indien je vliegtuig of helikopter wordt aangevallen, kan de overheid niet ingrijpen.
-
-### Artikel 11.3: Eigendommen en voertuigen
-
-- Ieder voertuig dat onbeheerd wordt achtergelaten, kan worden gestolen of vernietigd.
-- Indien je voertuig wordt gestolen op Cayo Perico, is er geen mogelijkheid tot aangifte.
-- Voertuigen mogen niet willekeurig worden vernietigd zonder interactie. Opzettelijk schade aanrichten zonder enige rolspelmatige interactie wordt bestraft.
-
-### Artikel 11.4: Groepsactiviteiten
-
-- Officiële en niet-officiële criminele organisaties mogen samenwerken op Cayo Perico zonder beperkingen.
-- Bondgenootschappen mogen enkel op het eiland plaatsvinden en niet naar de stad worden meegenomen.
-- Groepen mogen geen toevallige spelers buitensluiten van activiteiten. Iedereen heeft de vrijheid om op het eiland te opereren.
-
-### Artikel 11.5: Geen safe zones op Cayo Perico
-
-- Er zijn geen veilige plekken op het eiland. Schuilplaatsen kunnen op elk moment worden aangevallen.
-- Schieten in gebouwen en havens is toegestaan.
-- Iedereen is een doelwit, ongeacht de locatie op het eiland.
-
-### Artikel 11.6: Uitzonderingen
-
-- Overheidsdiensten zoals politie, KMAR en ambulance hebben geen jurisdictie op Cayo Perico.
-- Speciale operaties door de DSI mogen enkel worden uitgevoerd met expliciete toestemming van de korpschef.
-- Geen enkele speler mag zich beroepen op stadsregels op het eiland. Cayo Perico opereert volledig los van de Ryft-wetten.
-
-## Artikel 14: luchtregels
-### Artikel 14.1: Algemene vliegregels
+## Artikel 11: luchtregels
+### Artikel 11.1: Algemene vliegregels
 
 Het is enkel toegestaan om te vliegen met een geldig vliegbrevet. De luchtverkeersregels in Ryft zijn opgesteld om het vliegverkeer veilig en ordelijk te laten verlopen.
-Veiligheid
 
 !!! Info "Veiligheid"
     - Meld eventuele technische problemen in de portofoon en volg de instructies van de autoriteiten op.
     - Het opzettelijk laten crashen van je luchtvaartuig is ten strengste verboden (Straf Categorie 5).
 
-### Artikel 14.2: Vlieghoogte
+### Artikel 11.2: Vlieghoogte
 
 - De minimale vlieghoogte binnen Ryft is vastgesteld op 100 meter.
-- Indien je onder deze hoogte vliegt zonder geldige reden, kan de overheid contact met je opnemen en een sanctie opleggen.
+- Indien je zonder intentie tot roleplay of scenario onder deze hoogte gaat vliegen kan hier een straf van de 1e tot 3e categorie voor opgelegd worden. Anders wordt dit door de politie in roleplay afgehandeld.
 
-### Artikel 14.3: Communicatie en portofoon
+### Artikel 11.3: Communicatie en portofoon
 
 - Piloten dienen zich voorafgaand aan de vlucht aan te melden via portofoon **frequentie 23.45.**
 - Dit is noodzakelijk om coördinatie en veiligheid in de lucht te waarborgen.
 - De overheid kan direct contact met je opnemen bij ongewone activiteit.
 
-### Artikel 14.4: Aanwijzingen van autoriteiten
+### Artikel 11.4: Aanwijzingen van autoriteiten
 
 - Aanwijzingen van de politie of andere autoriteiten moeten te allen tijde worden opgevolgd.
 - Indien je deze instructies negeert, kan je vliegbrevet worden ingetrokken en kunnen er verdere maatregelen worden genomen.
 
-### Artikel 14.5: No-Fly zones
+### Artikel 11.5: No-Fly zones
 
 !!! Failure "Binnen en buiten de stad gelden enkele No-Fly zones:"
     - De militaire basis
@@ -725,7 +642,7 @@ Veiligheid
 
 Het vliegen boven deze locaties zonder speciale toestemming is ten strengste verboden.
 
-### Artikel 14.6: Landingsregels
+### Artikel 11.6: Landingsregels
 
 **Verboden landingslocaties:**
 
@@ -741,20 +658,20 @@ Het vliegen boven deze locaties zonder speciale toestemming is ten strengste ver
 - Vlakke stukken land buiten de stad (mits voldoende afstand tot gebouwen en bomen)
 - Water (alleen voor watervliegtuigen en waterhelikopters)
 
-### Artikel 14.7: Overtredingen en sancties
+### Artikel 11.7: Overtredingen en sancties
 
 - Indien je je niet aan de vliegregels houdt, heeft de politie het recht om je vliegbrevet in te nemen.
-- Ernstige overtredingen kunnen resulteren in een tijdelijk of permanent vliegverbod binnen Ryft.
+- Ernstige overtredingen kunnen resulteren in een straf van de 1e tot 5e categorie of een tijdelijk of permanent vliegverbod binnen Ryft.
 
-### Artikel 14.8: Uitzonderingen
+### Artikel 11.8: Uitzonderingen
 
 - Ambulance- en politiehelikopters zijn uitgezonderd van de bovengenoemde regels.
 - Zij zijn bevoegd om laag te vliegen en te landen op alle locaties, mits dit veilig en noodzakelijk is.
 
-## Artikel 15: Huizen
+## Artikel 12: Huizen
 
-### Artikel 15.1: Meubels
-Het is niet toegestaan om misbruik te maken van meubels binnen of buitens huis. jeroen poepslaaf
+### Artikel 12.1: Meubels
+Het is niet toegestaan om misbruik te maken van meubels binnen of buitens huis.
 
 !!! Failure "Enkele voorbeelden hiervan"
     - Opslag buiten plaatsen
