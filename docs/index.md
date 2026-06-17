@@ -180,11 +180,12 @@ Gekregen informatie OOC (Out of Character) mag niet worden gebruikt IC (In Chara
     - Het is verboden om samen te spannen met andere spelers buiten de game om en vervolgens deze afspraken in-game toe te passen voor strategische voordelen. Dit omvat maar is niet beperkt tot het vormen van allianties, het plannen van aanvallen.
     - Streamsniping valt ook onder META-gaming. Het is niet toegestaan dat jij informatie via een externe bron verkrijgt (zoals een livestream) en dit toepast in-game om bijvoorbeeld de streamer op te zoeken is niet toegestaan.
 
-Het is ten alle tijden verplicht gesteld om in-game (IC) communicatie te gebruiken. Dit houdt in dat alle betrokken spelers in Ryft Roleplay communiceren of via de (Overheids) TeamSpeak. Het gebruik maken van externe middelen voor communiceren is niet toegestaan.
+Het is ten alle tijden verplicht gesteld om in-game (IC) communicatie te gebruiken. Dit houdt in dat alle betrokken spelers in Ryft Roleplay communiceren. Het gebruik maken van externe middelen voor communiceren is niet toegestaan.
 
 !!! question "Voorbeelden van externe communicatie:"
     - Discord
     - WhatsApp
+    - TeamSpeak
     - Snapchat
     - Externe programma's
     - Externe apps
@@ -402,7 +403,7 @@ Het is niet toegestaan om onrealistisch om te gaan met je voertuig
 ### Artikel 4.4: Overheidsvoertuigen
 
 - Het is alleen toegestaan om een politievoertuig te stelen wanneer je dit nodig hebt om te vluchten van de politie of voor juiste roleplay doeleinden.. Blijf zo min mogelijk in een politievoertuig en wissel zo snel mogelijk over naar een normale auto.
-- Het is niet toegestaan om een ambulance of ANWB voertuig te stelen.
+- Het is niet toegestaan om een ambulance of pechhulp voertuig te stelen.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
 
@@ -474,7 +475,7 @@ Overvallen op jachten, banken en winkels mogen plaatsvinden onder de volgende vo
 ### Artikel 6.5: Vrijheidsberoving
 
 - Je mag iemand enkel gijzelen als dit een rol speelt binnen een roleplay scenario zoals een bankoverval of wraakactie.
-- Verboden doelwitten: Ambulancepersoneel en ANWB-medewerkers mogen niet worden gegijzeld.
+- Verboden doelwitten: ambulancepersoneel en pechhulp-medewerkers mogen niet worden gegijzeld.
 - Maximaal 1/3 van de aanwezige agenten mag gegijzeld worden met een maximum van 5 gegijzelde agenten tegelijkertijd.
 - Je mag iemand maximaal 30 minuten gijzelen alvorens een scenario te starten (overval, wraakactie), start je niks binnen die tijd, dan moet de gegijzelde vrijgelaten worden.
 - Je mag geen vrienden of bekenden als hostage gebruiken om een overval te plegen.
