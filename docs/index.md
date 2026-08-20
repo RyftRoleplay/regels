@@ -294,7 +294,7 @@ Indien je iemand om het leven wil brengen dient dit te allen tijde met een geldi
 
 ### Artikel 2.11: Combat stashing
 
-Combat stashen is niet toegestaan, dit houdt in dat het niet is toegestaan om binnen 20 minuten na het verlaten van een scenario je spullen op te slaan of offline te gaan om hiermee confrontaties te voorkomen. Je dient de spullen OP ZAK te houden gedurende deze 20 minuten. Het mag ook in het dashboard/kofferbak van je auto, indien je bij dit voertuig in de buurt blijft.
+Combat stashen is niet toegestaan, dit houdt in dat het niet is toegestaan om binnen 20 minuten na het verlaten van een scenario je spullen op te slaan of offline te gaan om hiermee confrontaties te voorkomen. Je dient de spullen OP ZAK te houden gedurende deze 20 minuten. Andere spullen dan wapens mogen ook in het dashboard of de kofferbak van je auto worden bewaard, indien je bij dit voertuig in de buurt blijft. Wapens zijn hiervan uitgesloten, conform Artikel 5.2.
 
 Je mag *NIET* vliegend in een helikopter deze 20 minuten afwachten.
 
@@ -412,6 +412,12 @@ Het is niet toegestaan om onrealistisch om te gaan met je voertuig
 ### Artikel 5.1 Finishing
 
 Een zwaargewonde speler mag enkel gefinisht worden bij pure noodzaak, in andere situaties dien je de persoon te laten leven, dit om ambulance roleplay en speelplezier voor alle partijen te stimuleren.
+
+<span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
+
+### Artikel 5.2: Opslag van wapens in voertuigen
+
+Het is niet toegestaan om wapens op te slaan in het dashboard of de kofferbak van een voertuig. Wapens dienen op zak te worden gehouden of op een daarvoor bestemde opslaglocatie te worden bewaard.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
 
