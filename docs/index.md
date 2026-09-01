@@ -20,7 +20,7 @@
 
     Bedankt voor het bezoeken van de regelpagina van Ryft Roleplay. Dit is de eerste stap om een burger te worden in Ryft Roleplay! 
     Wij zijn een serieuze Roleplay server  voor FiveM en de regels zijn een cruciaal onderdeel om te kunnen spelen in  de stad! 
-    Mochten er enige onduidelijkheden zijn over de serverregels is er altijd de mogelijkheidom een support ticket aan te maken in de Support Discord om meer verduidelijk aan te vragen hierover.
+    Mochten er enige onduidelijkheden zijn over de serverregels is er altijd de mogelijkheid om een support ticket aan te maken in de Support Discord om meer verduidelijk aan te vragen hierover.
 
 Op het moment dat er een regel overtreden wordt probeer dan eerst met degene in kwestie een gesprek aan te gaan voordat je een report aanmaakt tegen de persoon. Dit scheelt voor beide partijen een hoop werk.
 Indien het niet mogelijk is om het onderling op te lossen is er altijd de mogelijkheid om deze persoon te rapporteren.
@@ -682,7 +682,7 @@ Het is niet toegestaan om misbruik te maken van meubels binnen of buitens huis.
 
 !!! Failure "Enkele voorbeelden hiervan"
     - Opslag buiten plaatsen
-    - Meubels onrealitsch plaatsen
+    - Meubels onrealistisch plaatsen
     - Meubels gebruiken om delen van je af te blokeren of om opslag te verbergen.
     - Verlichting misbruiken om mensen te verblinden. 
 
