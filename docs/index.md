@@ -542,32 +542,36 @@ Het is toegestaan om mensen te scammen of ripdealen voor illegale goederen. Wraa
 ## Artikel 8: Bovenwereld/ambtenaren
 
 **Algemeen**
-Ambtenaren zijn spelers met toegang tot speciale acties binnen een overheidsorganisatie (zoals Politie, Ambulance en Pechhulp). Deze functie brengt verantwoordelijkheid en voorbeeldgedrag met zich mee.
 
-??? Failure "Verboden gedragingen tijdens of na diensttijd"
+Ambtenaren zijn spelers met toegang tot speciale acties binnen een overheidsorganisatie, zoals de Politie, Ambulance en Pechhulp. Deze functies brengen verantwoordelijkheid en voorbeeldgedrag met zich mee.
 
-    - Deelname aan illegale activiteiten is verboden. (Uitzondering: Pechhulp en Ambulance mogen dit buiten dienst wel)
-    - Het is verboden om overheidsmiddelen zoals een taser, dienstwapen of medische spullen bij je te dragen wanneer je niet in dienst bent.
+??? failure "Verboden gedragingen tijdens of na diensttijd"
+
+    - Deelname aan illegale activiteiten is verboden, tenzij hieronder uitdrukkelijk een uitzondering wordt vermeld.
+    - Medewerkers van de Ambulance en Pechhulp mogen buiten dienst deelnemen aan illegale activiteiten. Zij mogen hierbij geen gebruikmaken van informatie, middelen of bevoegdheden die zij via hun overheidsfunctie hebben verkregen.
+    - Advocaten mogen buiten de uitoefening van hun functie deelnemen aan illegale activiteiten.
+    - Vanaf het moment dat een advocaat zich beschikbaar stelt of als advocaat optreedt, moet diegene volledig vrij zijn van criminele activiteiten. De advocaat mag gedurende deze periode geen wapens, drugs, gestolen goederen of andere illegale voorwerpen bij zich dragen.
+    - Een advocaat die zich beschikbaar heeft gesteld, mag cliënten, politieagenten of andere betrokkenen niet bedreigen, aanvallen, beroven, ontvoeren of op enige andere wijze crimineel benadelen. Dit geldt totdat de advocaat zich duidelijk heeft afgemeld.
+    - Het is verboden om buiten dienst overheidsmiddelen bij je te dragen, zoals een taser, dienstwapen of medische spullen.
     - Na ontslag mag je geen informatie gebruiken die je tijdens je diensttijd hebt verkregen.
-    - Het combineren van je overheidsfunctie met een andere baan waarvoor je in dienst moet zijn, is niet toegestaan.
+    - Het combineren van je overheidsfunctie met een andere baan waarvoor je tegelijkertijd in dienst moet zijn, is niet toegestaan.
     - Dienstvoertuigen mogen nooit worden ingezet voor illegale activiteiten.
-    - Instappen bij criminelen of actief meedoen aan criminele situaties is verboden.
-    - Farmen van geld binnen een overheidsbaan (bijvoorbeeld door onnodig acties te herhalen voor salaris) is niet toegestaan.
-    - Testritten of verkoop van voertuigen tijdens diensttijd is verboden.
-    - Het verduisteren van goederen of doorspelen van gevoelige informatie is strafbaar. Denk aan:
-        - MDT-gegevens
-        - Interne documenten of dossiers
-    - Hangen op gang- of crimineel terrein (in of uit dienst) zonder reden is niet toegestaan. Alleen meldingen afhandelen is toegestaan.
-    - Overheidsmedewerkers mogen niet worden aangespoord tot corrupt gedrag.
+    - Instappen bij criminelen of actief deelnemen aan criminele situaties is verboden, tenzij een hierboven beschreven uitzondering van toepassing is.
+    - Het farmen van geld binnen een overheidsbaan, bijvoorbeeld door onnodig handelingen te herhalen om salaris te ontvangen, is niet toegestaan.
+    - Testritten uitvoeren of voertuigen verkopen tijdens diensttijd is verboden.
+    - Het verduisteren van goederen of doorspelen van gevoelige informatie is verboden. Hieronder vallen onder andere:
+        - MDT-gegevens;
+        - interne documenten of dossiers.
+    - Rondhangen op gang- of crimineel terrein is zowel in als buiten dienst zonder geldige reden niet toegestaan. Het afhandelen van een melding vormt wel een geldige reden.
+    - Overheidsmedewerkers mogen niet tot corrupt gedrag worden aangespoord.
 
-!!! Example "Onder corrupt gedrag verstaan we o.a.:"
+!!! example "Onder corrupt gedrag verstaan we onder andere:"
 
     - Geld geven of aannemen om meldingen voorrang te geven.
     - Gevoelige informatie doorspelen aan criminelen.
-    - Gebruik van je functie om vrienden in de onderwereld te helpen.
-    - Betrokkenheid bij criminele activiteiten, ook na ontslag.
-    - Het misbruiken van dienstmiddelen of bevoegdheden voor eigen of andermans voordeel.
-
+    - Je functie gebruiken om vrienden of bekenden in de onderwereld te helpen.
+    - Informatie, middelen, bevoegdheden of contacten uit je functie gebruiken voor criminele activiteiten, ook na ontslag.
+    - Dienstmiddelen of bevoegdheden misbruiken voor eigen voordeel of dat van een ander.
 
 ## Artikel 9: Twitter
 
