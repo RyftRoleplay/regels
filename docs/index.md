@@ -495,7 +495,7 @@ Overvallen op jachten, banken en winkels mogen plaatsvinden onder de volgende vo
 
 - Je mag iemand enkel gijzelen als dit een rol speelt binnen een roleplay scenario zoals een bankoverval of wraakactie.
 - Verboden doelwitten: ambulancepersoneel en pechhulp-medewerkers mogen niet worden gegijzeld.
-- Maximaal 1/4 van de aanwezige agenten mag gegijzeld worden met een maximum van  gegijzelde agenten tegelijkertijd.
+- Maximaal 1/4 van de aanwezige agenten mag gegijzeld worden met een maximum van 3 gegijzelde agenten tegelijkertijd.
 - Je mag iemand maximaal 30 minuten gijzelen alvorens een scenario te starten (overval, wraakactie), start je niks binnen die tijd, dan moet de gegijzelde vrijgelaten worden.
 - Je mag geen vrienden of bekenden als hostage gebruiken om een overval te plegen.
 - Het gebruik van een “outside” hostage is niet toegestaan (de hostage moet dus altijd op dezelfde plaats zijn als waar de onderhandelingen plaatsvinden).
