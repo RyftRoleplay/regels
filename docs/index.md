@@ -1,7 +1,7 @@
 # Regels Ryft Roleplay
 
 <p align="center">
-  <img src="assets/ryft.png" alt="Ryft Logo" style="border-radius: 20%; width: 400px;"/>
+  <img src="assets/Ryftlogo2.png" alt="Ryft Logo" style="border-radius: 20%; width: 400px;"/>
 </p>
 
 <p style="text-align: center; font-weight: bold; font-style: italic; font-size: 1.3em">
@@ -22,8 +22,7 @@
     Wij zijn een serieuze Roleplay server  voor FiveM en de regels zijn een cruciaal onderdeel om te kunnen spelen in  de stad! 
     Mochten er enige onduidelijkheden zijn over de serverregels is er altijd de mogelijkheid om een support ticket aan te maken in de Support Discord om meer verduidelijk aan te vragen hierover.
 
-Op het moment dat er een regel overtreden wordt probeer dan eerst met degene in kwestie een gesprek aan te gaan voordat je een report aanmaakt tegen de persoon. Dit scheelt voor beide partijen een hoop werk.
-Indien het niet mogelijk is om het onderling op te lossen is er altijd de mogelijkheid om deze persoon te rapporteren.
+Op het moment dat er een regel overtreden wordt probeer dan eerst met degene in kwestie een gesprek aan te gaan voordat je een report aanmaakt tegen de persoon. Dit scheelt voor beide partijen een hoop werk. Indien het niet mogelijk is om het onderling op te lossen is er altijd de mogelijkheid om deze persoon te rapporteren.  Deze regels zijn de basisregels, gebruik ook gezond verstand als iets niet "letterlijk" in de regels staat.
 
 [Onze discord :fontawesome-brands-discord:](https://discord.com/invite/ryftroleplay){ .md-button .md-button--primary} [Support discord :fontawesome-brands-discord:](https://discord.gg/StxSthaSgn){ .md-button}
 
@@ -48,6 +47,14 @@ Het is verboden een actie uit te voeren met de intentie om aan een regel te onts
 ### Artikel 0.4: “Second opinion” / appeal
 
 Als je het niet eens bent met een sanctie die je opgelegd wordt kan je dit bestrijden in een appeal-ticket. Dit wordt in-game NIET opgelost.
+
+### Artikel 0.5: Aanspreken en optreden door staff
+
+Staffleden hebben de verantwoordelijkheid om spelers eerst aan te spreken op ongewenst gedrag en duidelijk te maken wat er moet veranderen. Het uitgangspunt is dat spelers de kans krijgen hun gedrag te verbeteren voordat een sanctie wordt opgelegd.
+
+Wanneer een incident de speelervaring van andere spelers verstoort of schaadt, is staff verantwoordelijk voor het behandelen van een report hierover en het stoppen van de verstoring. Een report is vereist om op een incident te handelen, behalve bij grote incidenten zoals bijvoorbeeld massa-RDM. In zulke gevallen mag staff ook zonder report direct ingrijpen.
+
+Bij herhaling na een waarschuwing kan een sanctie volgen. Bij grote incidenten zoals massa-RDM, of als een specifieke regel direct een sanctie voorschrijft, hoeft niet eerst een waarschuwing te worden gegeven. De verplichting om een report te ontvangen blijft gelden, behalve bij de hierboven genoemde grote incidenten. De maatregel moet passen bij de ernst, de context en de gevolgen van het incident.
 
 ## Artikel 1: Cheating / Valsspelen
 ### Artikel 1.1: Cheats/Externe software
@@ -83,20 +90,13 @@ Wanneer je samen met iemand speelt waarbij met redelijkerwijs uit kan blijken da
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 7e tot 10e categorie.*</span>
 
-### Artikel 1.4: PC checks  
-
-Het is verplicht om mee te werken aan een PC check wanneer dit uitgevoerd moet worden.
-weiger je dit of pas je handelingen aan die een PC check nutteloos maakt kan je worden verbannen met een categorie 10 ban
-
-In onze stad is het verplicht om Windows Defender als virusscanner te gebruiken. Dit is niet alleen een essentieel onderdeel van onze PC Checks (zie hierboven), maar ook een bewuste keuze op basis van veiligheid en betrouwbaarheid. Veel gratis virusscanners bieden namelijk minder uitgebreide bescherming dan Windows Defender, waardoor spelers kwetsbaarder zijn voor bedreigingen.
-
-### Artikel 1.5: Bespreken van Cheats methodes
+### Artikel 1.4: Bespreken van Cheats methodes
 
 Het is niet toegestaan om in-game of in Discord te bespreken hoe, waar of op welke manier iets verkregen of gebruikt kan worden.
 
 <span style="color: #00bdd6;">*Overtreding van deze regel kan resulteren in een categorie 7 ban voor je primaire account en een permanente ban voor je alt-account.*</span>
 
-### Artikel 1.6: Alternatieve account(s)
+### Artikel 1.5: Alternatieve account(s)
 
 Het is niet toegestaan om met een alternatief account te spelen. Overtreding van deze regel kan resulteren in een categorie 7 ban.
 
@@ -104,13 +104,13 @@ Het gebruik van een alternatief account om starters geld aan jezelf of vrienden 
 
 Indien een alternatief account wordt gebruikt om opzettelijk regels te overtreden, zoals RDM of het gebruik van cheats, kan dit resulteren in een permanente ban op zowel je primaire als alternatieve account.
 
-### Artikel 1.7: IRL trading
+### Artikel 1.6: IRL trading
 
 Het is niet toegestaan om items, diensten, accounts of geld te verhandelen door buiten Ryft om met valuta te betalen of andere vormen van compensatie te accepteren.
 
 <span style="color: #00bdd6;">*Overtreding van deze regel kan leiden tot categorie 9 ban.*</span>
 
-### Artikel 1.8: Weggeven van spullen bij het stoppen
+### Artikel 1.7: Weggeven van spullen bij het stoppen
 
 Het is niet toegestaan om spullen aan anderen weg te geven wanneer je stopt met de server of een lange pauze neemt. Eveneens is het niet toegestaan om dergelijke spullen aan te nemen.
 
@@ -124,6 +124,7 @@ Het uitvoeren van handelingen die in het echte leven niet mogelijk of onrealisti
 !!! question "Voorbeelden van FailRP:"
     - Doen alsof je geen pijn ervaart in situaties waar je dat wel zou moeten.
     - Communiceren via radio of telefoon tijdens het zwemmen.
+    - Het negeren of doorbreken van een door de politie ingestelde wegafzetting is onder geen enkele omstandigheid toegestaan.
 
 !!! failure "Verboden handelingen onder FailRP"
     - Het stelen van een voertuig of de inhoud ervan zonder een goede aanleiding.
@@ -153,11 +154,14 @@ Het is niet toegestaan om de keuzevrijheid van een derde afnemen of om opzetteli
     - Misbruik van emotes: Emotes zoals /e sleep gebruiken om een schietpartij te ontwijken.
     - Niet eerlijk verkregen wapens: Het fictief pakken van wapens uit een kofferbak waar geen fysiek wapen aanwezig is.
     - Bewijsmateriaal: Bewijsmateriaal IC gebruiken wanneer er geen zichtbare vorm van opname materiaal aanwezig is. Een dashcam valt niet onder geldig opname materiaal.
+    - Het gijzelnemen van een politieagent met als doeleind diegene dingen te laten verwijderen en/of te aanpassen uit het MDT / de MEOS.
+    
 
 !!! question "In sommige situaties is dit toegestaan:"
     - Je mag spullen fictief afpakken wanneer je deze items niet mag stelen of af kan afpakken.
     - Wanneer je iemand geboeid hebt, maar door een andere game mechanic moeten de boeien af mag je hem aan een object vast boeien of fictieve boeien gebruiken.
     - Wanneer je een handeling wilt uitvoeren dien je hier een passende emote voor te gebruiken, tenzij je alleen bent dan mag dit vanuit TH.
+    - Een politieagent gijzelnemen om gegevens in het MDT uit te laten lezen.
 
 !!! failure "Uitzonderingen van Powergaming"
     - Overheidsinstanties hebben een bodycam ongeacht of deze zichtbaar is. Deze bodycam kan wel afgepakt worden.
@@ -294,9 +298,9 @@ Indien je iemand om het leven wil brengen dient dit te allen tijde met een geldi
 
 ### Artikel 2.11: Combat stashing
 
-Combat stashen is niet toegestaan, dit houdt in dat het niet is toegestaan om binnen 20 minuten na het verlaten van een scenario je spullen op te slaan of offline te gaan om hiermee confrontaties te voorkomen. Je dient de spullen OP ZAK te houden gedurende deze 20 minuten. Andere spullen dan wapens mogen ook in het dashboard of de kofferbak van je auto worden bewaard, indien je bij dit voertuig in de buurt blijft. Wapens zijn hiervan uitgesloten, conform Artikel 5.2.
+Combat stashen is niet toegestaan, dit houdt in dat het niet is toegestaan om binnen 15 minuten na het verlaten van een scenario je spullen op te slaan of offline te gaan om hiermee confrontaties te voorkomen. Je dient de spullen OP ZAK te houden gedurende deze 15 minuten. Andere spullen dan wapens mogen ook in het dashboard of de kofferbak van je auto worden bewaard, indien je bij dit voertuig in de buurt blijft. Wapens zijn hiervan uitgesloten, conform Artikel 5.2.
 
-Je mag *NIET* vliegend in een helikopter deze 20 minuten afwachten.
+Je mag *NIET* vliegend in een helikopter deze 15 minuten afwachten.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een tijdelijke ban van de 9e categorie uitgedeeld worden. (Je dient je dus ook te melden in een ticket voor een gepaste straf.)*
 
@@ -328,7 +332,7 @@ Je mag iemand herkennen aan zijn of haar stem, tenzij je de betreffende persoon 
 
 **Gebruik van externe software:**
 
-Het is toegestaan om externe software te gebruiken om je stem te vervormen voor criminele activiteiten, mits dit op een realistische manier gebeurt. Het is dan niet toegestaan om de persoon te herkennen aan zijn stem.
+Het is toegestaan om externe software te gebruiken om je stem te vervormen, mits dit op een realistische manier gebeurt. Dus je mag je stem licht vervormen. Het is dan niet toegestaan om de persoon te herkennen aan zijn stem.
 
 ### Artikel 3.3: Stemvervormers
 
@@ -350,7 +354,13 @@ Het is niet toegestaan om je voertuig te gebruiken als wapen.
 ### Artikel 4.2: Pitten van voertuigen (VDM)
 
 #### <span style="color:rgb(0, 214, 168);">Artikel 4.2.1 Pitten</span>
-Het is niet toegestaan om voertuigen te pitten die sneller rijden dan 100 km/u. De verkeerspolitie en de DSI mag een voertuig pitten die niet sneller rijdt dan 150 km/u
+Bij het pitten gelden de onderstaande richtsnelheden en maximale marges. De snelheid van het voertuig dat gepit wordt is hierbij bepalend.
+
+- Burgers en reguliere noodhulp: richtsnelheid van 100 km/u, met een maximale marge tot 110 km/u.
+- DSI en Recherche in een SUV die geen SIV-variant is: richtsnelheid van 120 km/u, met een maximale marge tot 130 km/u.
+- Politie in een SIV-variant (VP, DSI en Recherche): richtsnelheid van 140 km/u, met een maximale marge tot 150 km/u.
+
+De marge is bedoeld voor korte snelheidsafwijkingen. Het is niet de bedoeling om standaard op de maximale marge te pitten. Boven het genoemde maximum is pitten niet toegestaan.
 
 #### <span style="color:rgb(0, 214, 168);">Artikel 4.2.2 Pittenregels motorvoertuigen</span>
 Motorrijders zijn kwetsbare bestuurders, daarom gelden voor hen de volgende regels over het pitten. Tot op de onderstaande aangegeven snelheden mag een motor gepit worden:
@@ -364,11 +374,11 @@ Spijkermatten mogen gebruikt worden bij een voertuig dat niet sneller rijdt dan 
 
 #### <span style="color:rgb(0, 214, 168);">Artikel 4.2.4 Bandenschieten</span>
 
-De politie mag een voertuig banden schieten indien het niet sneller rijdt dan 150 km/u
+Het schieten op banden is toegestaan voor zowel burgers als politie, mits hiervoor een geldige roleplayaanleiding bestaat en de overige regels over wapengebruik worden nageleefd.
 
+Voor burgers en criminelen geldt hierbij geen afzonderlijke snelheidslimiet.
 
-!!! warning "Voor het schieten op banden van motoren geldt de volgende regel:"
-    - De motor rijdt zachter als 50 km/h
+Voor de politie worden de toegestane snelheden en voorwaarden vastgelegd in het interne politiebeleid binnen de roleplay, met het oog op het waarborgen van levens.
 
 #### <span style="color:rgb(0, 214, 168);">Artikel 4.2.5 Categorieen</span>
 
@@ -387,16 +397,17 @@ Het beuken van voertuigen is niet toegestaan, het klemzetten van een voertuig is
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
 
-### Artikel 4.3: Onrealistisch rijgedrag
+### Artikel 4.3: GTA Driving
 
-Het is niet toegestaan om onrealistisch om te gaan met je voertuig
+Het is niet toegestaan om op een onrealistische manier een voertuig te besturen of gebruik te maken van GTA-mechanieken die in het echte leven niet mogelijk zouden zijn. Iedere speler dient zijn of haar voertuig op een realistische manier te besturen, passend bij de situatie en het type voertuig.
 
-!!! example "Enkele voorbeelden hiervan zijn:"
+!!! example "Voorbeelden van GTA Driving:"
 
-    - Stunt jumps nemen.
-    - Onrealistisch offroad rijden. 
-    - Het rammen/onnodig beuken van andere voertuigen zonder reden.
-    - Het gebruik maken van obstakels om zo ergens overheen te jumpen of te komen met je voertuig.
+    - Met hoge snelheid over bergen, heuvels of rotsachtige gebieden rijden met een voertuig dat hiervoor niet geschikt is.
+    - Met een voertuig van grote hoogtes springen en vervolgens zonder enige gevolgen doorrijden.
+    - Opzettelijk schansen, stunten of gebruikmaken van objecten om met een voertuig te springen.
+    - Met hoge snelheid tegen muren, bomen of andere objecten botsen en vervolgens zonder gevolgen doorrijden.
+    - Met een voertuig van een brug of andere verhoging rijden en vervolgens de achtervolging zonder realistische gevolgen voortzetten.
 
 <span style="color: #00bdd6;">*Bij overtreding van deze regel zal er een straf opgelegd worden volgens de 1e tot 4e categorie.*</span>
 
@@ -428,24 +439,26 @@ Criminaliteit is een onlosmakelijk onderdeel van Ryft. Om de balans tussen rolep
 #### <span style="color:rgb(0, 214, 168);">6.1.1 Algemene regels overvallen</span>
 
 - Het beroven van een speler is toegestaan wanneer diegene aantoonbaar bezig is met criminele activiteiten.
-- De overval moet binnen 20 minuten na herkenning plaatsvinden. Na deze tijd is rippen niet meer toegestaan.
+- De overval moet binnen dezelfde dag na herkenning plaatsvinden. Na deze tijd is rippen niet meer toegestaan.
 
 #### <span style="color:rgb(0, 214, 168);">6.1.2 Toegestane redenen om iemand te rippen</span>
 
-!!! example "Voorbeelden van situaties waarin rippen is toegestaan:"
+!!! example "Voorbeelden:"
 
     - Het dragen van gezichtsbedekkende kleding.
     - Het dragen van een motorhelm terwijl de speler niet op een motor zit.
     - Het dragen van een holster, steek/kogelwerend vest of legerkleding.
     - Het zichtbaar vasthouden van een wapen.
-    - Het achtervolgen van gewapende mensen langer dan 2 minuten.
     - Handelingen uitvoeren op roterende drugs- of witwaslocaties.
 
 #### <span style="color:rgb(0, 214, 168);">6.1.3 Situaties waarin rippen niet is toegestaan</span>
 
-- Spelers zonder criminele indicatie (bijvoorbeeld willekeurige burgers).
-- Startlocaties van illegale activiteiten.
+!!! danger  "Voorbeelden:"
+    - Spelers zonder criminele indicatie (bijvoorbeeld willekeurige burgers).
+    - Startlocaties van illegale activiteiten.
+    - Op pluk/verwerk locaties is rippen niet toegestaan uitsluitend omdat iemand daar aanwezig.
 
+Heeft een speler op een pluk/verwerk locatie een van de in Artikel 6.1.2 genoemde criminele indicaties dan mag je die speler wel rippen. 
 #### <span style="color:rgb(0, 214, 168);">6.1.4 Verboden items bij rippen</span>
 
 !!! example "De volgende items mogen niet worden gestolen tijdens een overval of rip-actie:"
@@ -464,7 +477,7 @@ Counteren is enkel en alleen toegestaan wanneer de politie nog niet ter plaatse 
 
 ### Artikel 6.3: Gangs en Organisaties
 
-- Een gang mag maximaal 10 leden hebben.
+- Een gang mag standaard maximaal 15 leden hebben. Een afwijkend ledenmaximum is alleen toegestaan in overleg met en na goedkeuring van de onderwereldcoördinator. Afspraken hierover worden vastgelegd in het gangbeleid.
 - Indien de helft van het totale aantal gangleden online zijn, mogen er maximaal 2 meelopers (spelers die niet in de gang zitten) deelnemen aan een actie.
 - Indien je gang meer dan 4 leden bevat, mag je niet samenwerken met gangs die ook meer dan 4 leden hebben.
 
@@ -482,7 +495,7 @@ Overvallen op jachten, banken en winkels mogen plaatsvinden onder de volgende vo
 
 - Je mag iemand enkel gijzelen als dit een rol speelt binnen een roleplay scenario zoals een bankoverval of wraakactie.
 - Verboden doelwitten: ambulancepersoneel en pechhulp-medewerkers mogen niet worden gegijzeld.
-- Maximaal 1/3 van de aanwezige agenten mag gegijzeld worden met een maximum van 5 gegijzelde agenten tegelijkertijd.
+- Maximaal 1/4 van de aanwezige agenten mag gegijzeld worden met een maximum van  gegijzelde agenten tegelijkertijd.
 - Je mag iemand maximaal 30 minuten gijzelen alvorens een scenario te starten (overval, wraakactie), start je niks binnen die tijd, dan moet de gegijzelde vrijgelaten worden.
 - Je mag geen vrienden of bekenden als hostage gebruiken om een overval te plegen.
 - Het gebruik van een “outside” hostage is niet toegestaan (de hostage moet dus altijd op dezelfde plaats zijn als waar de onderhandelingen plaatsvinden).
@@ -560,44 +573,53 @@ Ambtenaren zijn spelers met toegang tot speciale acties binnen een overheidsorga
     - Het farmen van geld binnen een overheidsbaan, bijvoorbeeld door onnodig handelingen te herhalen om salaris te ontvangen, is niet toegestaan.
     - Testritten uitvoeren of voertuigen verkopen tijdens diensttijd is verboden.
     - Het verduisteren van goederen of doorspelen van gevoelige informatie is verboden. Hieronder vallen onder andere:
-        - MDT-gegevens;
-        - interne documenten of dossiers.
+        - Interne documenten of dossiers.
     - Rondhangen op gang- of crimineel terrein is zowel in als buiten dienst zonder geldige reden niet toegestaan. Het afhandelen van een melding vormt wel een geldige reden.
     - Overheidsmedewerkers mogen niet tot corrupt gedrag worden aangespoord.
+    - Politieagenten mogen geen burgers aanhouden op vaste pluklocaties en/of verwerklocaties voor inpakken of plukken.
 
 !!! example "Onder corrupt gedrag verstaan we onder andere:"
 
     - Geld geven of aannemen om meldingen voorrang te geven.
-    - Gevoelige informatie doorspelen aan criminelen.
+    - Gevoelige informatie (exclusief MDT) doorspelen aan criminelen.
     - Je functie gebruiken om vrienden of bekenden in de onderwereld te helpen.
     - Informatie, middelen, bevoegdheden of contacten uit je functie gebruiken voor criminele activiteiten, ook na ontslag.
     - Dienstmiddelen of bevoegdheden misbruiken voor eigen voordeel of dat van een ander.
 
-## Artikel 9: Twitter
+## Artikel 9: Flits
 
-Het gebruik van Twitter binnen Ryft Roleplay is bedoeld voor realistische en gepaste communicatie. Spammen of misbruik van Twitter is niet toegestaan.
+Het gebruik van Flits binnen Ryft Roleplay is bedoeld voor realistische en gepaste communicatie. Spammen of misbruik van Flits is niet toegestaan.
 
-### Artikel 9.1 - Verbod op illegale activiteiten via Twitter
+### Artikel 9.1 - Verbod op illegale activiteiten via Flits
 
-- Het plaatsen van berichten over illegale activiteiten (zoals wapenhandel, drugsverkoop en illegale locaties) op Twitter is verboden.
+- Het plaatsen van berichten over illegale activiteiten (zoals wapenhandel, drugsverkoop en illegale locaties) op Flits is verboden.
 - Het gebruik van codewoorden die indirect verwijzen naar illegale activiteiten, zoals "Gezocht: snoepjes", is eveneens niet toegestaan.
 - Illegale activiteiten mogen alleen worden gedeeld via Dark Web of Messages binnen roleplay.
 
 ## Artikel 10 : Taalgebruik & gedrag
 ### Artikel 10.1: Taalgebruik
 
-Het gebruik maken van ongepaste taal zal bestraft worden met een ban.
+Ongepast taalgebruik is niet toegestaan. Bij de beoordeling wordt onderscheid gemaakt tussen taalgebruik dat tegen iemand is gericht en een algemene uiting van frustratie.
 
-Voorbeelden van ongepast taalgebruik:
+#### <span style="color:rgb(0, 214, 168);">10.1.1 - Gericht beledigen of uitschelden
 
-- Het gebruik maken van ziektes die niet bedoeld zijn om iemand mee te beledigen.
-- Iemand persoonlijk beledigen.
-- Iemand beledigen met ziektes.
-- Iemand beledigen en zijn/haar familie erbij betrekken.
-- Racistische/seksistische opmerkingen.
-- Het opzettelijk vernederen van andere personen
+Hieronder valt ongepast taalgebruik dat tegen een persoon of groep is gericht. Voorbeelden hiervan zijn:
 
-<span style="color: #00bdd6;">*De straf kan variëren van de 1e categorie tot de 7e categorie, afhankelijk van de ernst van de overtreding, in te schatten door het handelende stafflid.*</span>
+- Iemand persoonlijk beledigen of uitschelden.
+- Iemand beledigen met ziektes of diens familie erbij betrekken.
+- Racistische of seksistische opmerkingen maken.
+- Andere personen opzettelijk vernederen.
+
+#### <span style="color:rgb(0, 214, 168);">10.1.2 - Taalgebruik uit frustratie
+
+Hieronder valt het uitroepen of laten ontglippen van scheldwoorden of ziektes uit frustratie, zonder deze tegen iemand te richten. Voorbeelden hiervan zijn:
+
+- Een scheldwoord roepen nadat je een ongeluk hebt gehad.
+- Een ziekte als krachtterm gebruiken nadat een actie mislukt, zonder iemand daarmee aan te spreken of te beledigen.
+
+Bij een eenmalige uiting van frustratie volgt eerst een aanspreking of waarschuwing. Bij herhaling na een waarschuwing of het verstoren van de roleplay kan een straf volgen. Bij de beoordeling wordt meegewogen of anderen hiervan hinder ondervinden en of hierover een report is ingediend.
+
+<span style="color: #00bdd6;">*De sanctie varieert per zaak en wordt bepaald op basis van de ernst, de context, herhaling en de overlast voor anderen. De straf kan variëren van de 1e tot en met de 6e categorie. Een uiting van frustratie die niet tegen iemand is gericht, wordt bij verder vergelijkbare omstandigheden lichter bestraft dan het gericht uitschelden van iemand met ziektes.*</span>
 
 ### Artikel 10.2 Gedrag
 
